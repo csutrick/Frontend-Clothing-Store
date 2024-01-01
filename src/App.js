@@ -1,10 +1,24 @@
 import React from "react";
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+
+import Navbar from "./Components/Navbar/index.js";
+import Home from "./Pages/Home";
+import Footer from "./Components/Footer/index.js";
 
 function App() {
   return (
-    <div className="w-full py-4 flex flex-row items-center justify-center">
-      <h1 className="text-4xl text-black font-bold tracking-wider">Tailwinds</h1>
-    </div>
+    <Router>
+`     <div className="">
+        <Navbar />
+          <Routes>
+            <Route 
+              path="/" 
+              element={<Home />} 
+            />
+          </Routes>
+        <Footer />
+      </div>
+    </Router>
   );
 }
 
