@@ -8,7 +8,7 @@ import Footer from "./Components/Footer/index.js";
 function App() {
   return (
     <Router>
-`     <div className="">
+      <div className="">
         <Navbar />
           <Routes>
             <Route 
