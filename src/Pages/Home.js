@@ -1,13 +1,13 @@
 import React from "react";
 
-import Hero from "../Components/Home/hero.js";
-import ItemContainer from "../Components/Home/itemContainer.js";
+import Hero from "../Components/PageHome/hero.js";
+import ItemContainer from "../Components/PageHome/itemContainer.js";
 
-const Home = () => {
+const Home = ({ searchResults }) => {
     return (
-        <div className="bg-green-300 w-full flex flex-col">
+        <div className="w-full flex flex-col">
             <Hero />
-            <ItemContainer />
+            <ItemContainer searchResults={searchResults}/>
         </div>
     )
 };
