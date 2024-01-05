@@ -1,10 +1,10 @@
 import axios from 'axios';
 
 function searchProducts(searchTerm) {
-    // Define the API URL
+    // API URL
     const apiUrl = 'https://fakestoreapi.com/products';
 
-    // Use Axios to make the GET request
+
     return axios.get(apiUrl)
         .then(response => {
             // Check if the searchTerm is not empty
@@ -25,7 +25,7 @@ function searchProducts(searchTerm) {
         })
         .catch(error => {
             console.error("Error fetching data:", error);
-            throw error; // You can handle the error as needed
+            throw error;
         });
 };
 

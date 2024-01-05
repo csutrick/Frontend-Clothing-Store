@@ -1,6 +1,6 @@
 import React from "react";
 
-import ItemCard from "./itemCard";
+import ItemCardWrapper from "./itemCardWrapper";
 
 const ItemContainer = ({ searchResults }) => {
     // Check if searchResults is not null and has items
@@ -11,7 +11,7 @@ const ItemContainer = ({ searchResults }) => {
             {hasResults ? (
                 // Render the products if there are search results
                 searchResults.map((item) => (
-                    <ItemCard 
+                    <ItemCardWrapper
                         key={item.id}
                         item={item}
                     />
