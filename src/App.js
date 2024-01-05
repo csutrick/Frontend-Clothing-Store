@@ -12,7 +12,7 @@ function App() {
   const [searchResults, setSearchResults] = useState([]);
 
   useEffect(() => {
-    SearchProducts()
+    SearchProducts(searchTerm)
       .then(data => {
         setSearchResults(data);
       })

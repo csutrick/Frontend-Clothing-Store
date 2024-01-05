@@ -37,7 +37,7 @@ const Hero = () => {
 
         // Clean up the interval on component unmount
         return () => clearInterval(interval);
-    }, []);
+    });
 
     return (
         <div className={`relative w-full flex justify-center items-center h-96 ${divs[currentIndex].color}`}>

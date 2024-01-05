@@ -1,18 +1,27 @@
 import React from "react";
 
+import ItemCard from "./itemCard";
+
 const ItemContainer = ({ searchResults }) => {
+    // Check if searchResults is not null and has items
+    const hasResults = searchResults && searchResults.length > 0;
+
     return (
         <div className="p-8 grid grid-cols-4 gap-8">
-            {searchResults.map((item) => (
-                <div key={item.id} 
-                className="bg-gray-300 flex flex-col p-2
-                rounded-lg font-bold">
-                    <img src={item.image} alt={item.title}
-                    className="rounded-md"/>
-                    <h2 className="mt-2 text-left">{item.price}</h2>
-                    <h2 className='text-left'>{item.title}</h2>
+            {hasResults ? (
+                // Render the products if there are search results
+                searchResults.map((item) => (
+                    <ItemCard 
+                        key={item.id}
+                        item={item}
+                    />
+                ))
+            ) : (
+                // Render a loading message if no results
+                <div className="col-span-4 text-center font-bold">
+                    <p>Loading products...</p>
                 </div>
-            ))}
+            )}
         </div>
     )
 };
