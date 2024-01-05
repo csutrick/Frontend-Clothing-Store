@@ -1,23 +1,51 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 
 import { FaArrowAltCircleLeft, FaArrowAltCircleRight } from "react-icons/fa";
 
 const Hero = () => {
+    // State to keep track of the current div index
+    const [currentIndex, setCurrentIndex] = useState(0);
+
+    // Array of div properties (colors and titles)
+    const divs = [
+        { color: "bg-red-300", title: "Image 1" },
+        { color: "bg-blue-300", title: "Image 2" },
+        { color: "bg-green-300", title: "Image 3" },
+        { color: "bg-orange-300", title: "Image 4" },
+        { color: "bg-yellow-300", title: "Image 5" },
+    ];
+
+    // Function to go to the next div
+    const nextDiv = () => {
+        setCurrentIndex((prevIndex) => 
+            prevIndex === divs.length - 1 ? 0 : prevIndex + 1
+        );
+    };
+
+    // Function to go to the previous div
+    const prevDiv = () => {
+        setCurrentIndex((prevIndex) =>
+            prevIndex === 0 ? divs.length - 1 : prevIndex - 1
+        );
+    };
+
+    // useEffect change div every 8e seconds
+    useEffect(() => {
+        const interval = setInterval(() => {
+            nextDiv();
+        }, 8000);
+
+        // Clean up the interval on component unmount
+        return () => clearInterval(interval);
+    }, []);
+
     return (
-        <div className="bg-green-300 relative w-full flex flex-row justify-center items-center h-96">
-            <h1 className="text-4xl font-bold text-black tracking-widest">HERO Images</h1>
+        <div className={`relative w-full flex justify-center items-center h-96 ${divs[currentIndex].color}`}>
+            <h2 className="text-white text-3xl">{divs[currentIndex].title}</h2>
 
-            <div className='absolute bottom-4 flex flex-row'>
-                <div className='w-4 h-4 rounded-full bg-gray-200/50 mx-1'></div>
-                <div className='w-4 h-4 rounded-full bg-gray-200 mx-1'></div>
-                <div className='w-4 h-4 rounded-full bg-gray-200 mx-1'></div>
-                <div className='w-4 h-4 rounded-full bg-gray-200 mx-1'></div>
-                <div className='w-4 h-4 rounded-full bg-gray-200 mx-1'></div>
-            </div>
-
-            <FaArrowAltCircleLeft 
+            <FaArrowAltCircleLeft onClick={prevDiv}
             className="absolute left-8 text-5xl text-gray-500/50 hover:text-gray-500"/>
-            <FaArrowAltCircleRight 
+            <FaArrowAltCircleRight onClick={nextDiv}
             className="absolute right-8 text-5xl text-gray-500/50 hover:text-gray-500"/>
         </div>
     )
