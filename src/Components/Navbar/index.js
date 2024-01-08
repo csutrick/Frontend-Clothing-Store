@@ -1,6 +1,9 @@
 import React, { useState, useCallback } from "react";
-import { IoIosSearch } from "react-icons/io";
+
 import debounce from 'lodash.debounce';
+
+import { IoIosSearch } from "react-icons/io";
+import { IoCartOutline } from "react-icons/io5";
 
 const Navbar = ({ setSearchTerm }) => {
   const [inputValue, setInputValue] = useState("");
@@ -19,24 +22,33 @@ const Navbar = ({ setSearchTerm }) => {
   };
 
   return (
-    <div className="w-full flex justify-center items-center py-2">
-      <div className="relative group drop-shadow-lg">
-        <input
+    <div className="z-40 fixed top-0 drop-shadow-lg bg-white w-full flex flex-row flex-nowrap justify-between items-center py-2 px-2">
+      <div className="flex flex-row flex-novwrap">
+        <div className="bg-gray-300 mr-4 h-12 w-12 text-center">
+          Temp Logo
+        </div>
+        <ul className="flex flex-row flex-nowrap items-center">
+          <li className="mr-4 px-2 text-lg font-bold border-b-2 border-gray-300 hover:border-black">Mens</li>
+          <li className="mr-4 px-2 text-lg font-bold border-b-2 border-gray-300 hover:border-black">Womens</li>
+          <li className="mr-4 px-2 text-lg font-bold border-b-2 border-gray-300 hover:border-black">Kids</li>
+          <li className="mr-4 px-2 text-lg font-bold border-b-2 border-gray-300 hover:border-black">Other</li>
+        </ul>
+      </div>
+      <div className="flex flex-row flex-nowrap justify-center items-center">
+        <div className="bg-transparent flex flex-row flex-nowrap justify-center items-start p-1
+        border-b-2 border-gray-400 hover:border-black focus-within:border-2 focus-within:text-black group">
+          <button className="text-gray-400 group-hover:text-black group-focus:text-black">
+            <IoIosSearch className="text-3xl"/>
+          </button>
+          <input 
           type="text"
           placeholder="Search..."
-          className="rounded-full py-2 px-4 
-          border border-gray-300 bg-white focus:outline-none focus:border-blue-500 focus:ring focus:ring-blue-200"
           value={inputValue}
           onChange={handleInputChange}
-        />
-        <button
-          className="absolute right-0 top-0 h-full p-2
-          bg-blue-500 text-white rounded-full
-          hover:scale-105 active:scale-110"
-          onClick={() => setSearchTerm(inputValue)}
-        >
-          <IoIosSearch className="text-2xl" />
-        </button>
+          className="h-full py-1 pl-2 focus:outline-none bg-transparent text-lg align-text-bottom"
+          />
+        </div>
+        <IoCartOutline className="ml-2 text-4xl text-gray-400 hover:text-black"/>
       </div>
     </div>
   );
