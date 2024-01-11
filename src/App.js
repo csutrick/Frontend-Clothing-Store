@@ -5,31 +5,24 @@ import Navbar from "./Components/Navbar/index.js";
 import Home from "./Pages/Home.js";
 import Footer from "./Components/Footer/index.js";
 
-import SearchProducts from "./util/searchProducts.js";
-
 function App() {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, setSearchResults] = useState([]);
 
   useEffect(() => {
-    SearchProducts(searchTerm)
-      .then(data => {
-        setSearchResults(data);
-      })
-        .catch(error => {
-      });
-  }, [searchTerm]);
+    console.log(searchResults);
+  }, [searchResults]);
 
   return (
     <Router>
       <div className="">
         <Navbar 
-          setSearchTerm={setSearchTerm}
+          setSearchResults={setSearchResults}
         />
           <Routes>
             <Route 
               path="/" element={<Home 
-              searchResults={searchResults}/>}
+              />}
             />
           </Routes>
         <Footer />
