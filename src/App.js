@@ -8,6 +8,11 @@ import Footer from "./Components/Footer/index.js";
 function App() {
   const [searchTerm, setSearchTerm] = useState("");
   const [searchResults, setSearchResults] = useState([]);
+  const [useAPI, setUseAPI] = useState(false);
+
+  useEffect(() => {
+    console.log(`Using API ${useAPI}`);
+  }, [useAPI]);
 
   useEffect(() => {
     console.log(searchResults);
@@ -16,8 +21,10 @@ function App() {
   return (
     <Router>
       <div className="">
-        <Navbar 
+        <Navbar
           setSearchResults={setSearchResults}
+          setUseAPI={setUseAPI}
+          useAPI={useAPI}
         />
           <Routes>
             <Route 
