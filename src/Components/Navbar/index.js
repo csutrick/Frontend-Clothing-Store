@@ -10,6 +10,7 @@ const Navbar = ({ setSearchResults, setUseAPI, useAPI }) => {
       {/* logo and categories */}
       <LeftSideNavbar 
         setSearchResults={setSearchResults}
+        useAPI={useAPI}
       />
       {/* search bar and shopping bag */}
       <RightSideNavbar 
