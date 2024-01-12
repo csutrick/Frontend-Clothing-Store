@@ -1,14 +1,24 @@
 import React from "react";
 
-import fetchData from "../../../util/fetchData.js";
+import fetchApiData from "../../../util/fetchApiData.js";
+import fetchJsonData from "../../../util/fetchJsonData.js";
 
-const Mens = ({ setSearchResults }) => {
+const Mens = ({ setSearchResults, useAPI }) => {
     const handleItemClick = async (searchTerm) => {
-        try {
-            const data = await fetchData(searchTerm);
-            setSearchResults(data);
-        } catch (error) {
-            console.error('Error fetching data:', error);
+        if (useAPI) { // Checks to use API or Mirage
+            try {
+                const data = await fetchApiData(searchTerm);
+                setSearchResults(data);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            }
+        } else {
+            try {
+                const data = await fetchJsonData(searchTerm);
+                setSearchResults(data);
+            } catch (error) {
+                console.error('Error fetching data:', error);
+            }
         }
     };
 

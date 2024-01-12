@@ -2,7 +2,7 @@ import React from "react";
 
 import Men from "./categories/men.js";
 
-const LeftSideNavbar = ({ setSearchResults }) => {
+const LeftSideNavbar = ({ setSearchResults, useAPI }) => {
   return (
     <div className="bg-transparent flex flex-row items-start">
         {/* temp image for logo */}
@@ -12,6 +12,7 @@ const LeftSideNavbar = ({ setSearchResults }) => {
         {/* navigation categories */}
         <Men 
           setSearchResults={setSearchResults}
+          useAPI={useAPI}
         />
     </div>
   );
