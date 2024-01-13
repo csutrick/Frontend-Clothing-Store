@@ -1,0 +1,2365 @@
+[
+    {
+        "webID": "6493154",
+        "productTitle": "Women's Sonoma Goods For Life® Utility Bermuda Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6493154_Pitch_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 5,
+            "count": 3
+        },
+        "swatchImages": [
+            {
+                "color": "Manolo Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6493154_Manolo_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pitch Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6493154_Pitch_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy Tundra",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6493154_Navy_Tundra_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Basswood",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6493154_Basswood_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Steel Beam",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6493154_Steel_Beam_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6493154/womens-sonoma-goods-for-life-utility-bermuda-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6493154_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Pitch Black"
+        ],
+        "availableColr": [
+            "Manolo Olive",
+            "Pitch Black",
+            "Navy Tundra",
+            "Basswood",
+            "Steel Beam"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5927776",
+        "productTitle": "Women's Sonoma Goods For Life® Comfort Waist 5\" Utility Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5927776_Light_Gray?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 32,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 439
+        },
+        "swatchImages": [
+            {
+                "color": "Light Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Light_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Maroon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Maroon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pink",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Pink_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Purple",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Purple_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Light_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5927776_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5927776/womens-sonoma-goods-for-life-comfort-waist-5-utility-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5927776_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Light Gray"
+        ],
+        "availableColr": [
+            "Light Blue",
+            "Olive",
+            "Maroon",
+            "Navy",
+            "Pink",
+            "Khaki",
+            "Blue",
+            "Purple",
+            "Light Gray",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5234540",
+        "productTitle": "Women's Tek Gear® Essential Bermuda Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5234540_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 25,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 16.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 2170
+        },
+        "swatchImages": [
+            {
+                "color": "Navy Romance",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5234540_Navy_Romance_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5234540_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Presley Purple",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5234540_Presley_Purple_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5234540_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5234540/womens-tek-gear-essential-bermuda-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Heather"
+        ],
+        "availableColr": [
+            "Navy Romance",
+            "Heather",
+            "Presley Purple",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 14.44,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3920139",
+        "productTitle": "Women's Under Armour Play Up 3.0 Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3920139_Harbor_Blue?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 25,
+                    "maxPrice": 30
+                },
+                "salePrice": {
+                    "minPrice": 17.5,
+                    "maxPrice": 30
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "Mixed",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 1445
+        },
+        "swatchImages": [
+            {
+                "color": "Midnight Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Midnight_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Black_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Carbon Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Carbon_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Jet Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Jet_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Steel Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Steel_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pink Elixir",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Pink_Elixir_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Black_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Cerise",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Black_Cerise_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Harbor Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3920139_Harbor_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "best_seller"
+        ],
+        "valueAddedBadges": {
+            "realTime": [
+                "best_seller"
+            ],
+            "pricing": [],
+            "other": []
+        },
+        "seoURL": "/product/prd-3920139/womens-under-armour-play-up-30-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3920139_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Harbor Blue"
+        ],
+        "availableColr": [
+            "Midnight Navy",
+            "Black Black",
+            "Carbon Heather",
+            "Jet Gray",
+            "Steel Heather",
+            "Black",
+            "Pink Elixir",
+            "Black White",
+            "Black Cerise",
+            "Harbor Blue"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6502939",
+        "productTitle": "Women's Sonoma Goods For Life® Utility Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6502939_Pitch_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.1,
+            "count": 16
+        },
+        "swatchImages": [
+            {
+                "color": "Manolo Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6502939_Manolo_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pitch Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6502939_Pitch_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lead Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6502939_Lead_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy Tundra",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6502939_Navy_Tundra_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Overpass Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6502939_Overpass_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6502939/womens-sonoma-goods-for-life-utility-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6502939_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Pitch Black"
+        ],
+        "availableColr": [
+            "Manolo Olive",
+            "Pitch Black",
+            "Lead Gray",
+            "Navy Tundra",
+            "Overpass Gray"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6569420",
+        "productTitle": "Women's Sonoma Goods For Life® Roll Cuff Jean Bermuda Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6569420_Light_Wash?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": null,
+            "count": null
+        },
+        "swatchImages": [
+            {
+                "color": "Medium Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6569420_Medium_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6569420_Light_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pitch Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6569420_Pitch_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6569420/womens-sonoma-goods-for-life-roll-cuff-jean-bermuda-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6569420_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Light Wash"
+        ],
+        "availableColr": [
+            "Medium Wash",
+            "Light Wash",
+            "Pitch Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5842073",
+        "productTitle": "Women's Gloria Vanderbilt Vacation Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5842073_Marfa?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 54,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 21.6,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 26
+        },
+        "swatchImages": [
+            {
+                "color": "Vintage White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5842073_Vintage_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Marfa",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5842073_Marfa_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Stonewood",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5842073_Stonewood_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5842073_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Saltmarsh",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5842073_Saltmarsh_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5842073/womens-gloria-vanderbilt-vacation-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5842073_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Marfa"
+        ],
+        "availableColr": [
+            "Vintage White",
+            "Marfa",
+            "Stonewood",
+            "Black",
+            "Saltmarsh"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 18.36,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5621445",
+        "productTitle": "Women's Tek Gear® Multi-Purpose Workout Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5621445_Mineral_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 25,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 10,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 3.9,
+            "count": 294
+        },
+        "swatchImages": [],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5621445/womens-tek-gear-multi-purpose-workout-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5621445_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Mineral Black"
+        ],
+        "availableColr": [
+            "Mineral Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 8.5,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5940057",
+        "productTitle": "Women's Sonoma Goods For Life® 9\" Comfort Waist Utility Bermuda Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5940057_Olive?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 32,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 11.2,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 1139
+        },
+        "swatchImages": [
+            {
+                "color": "Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5940057_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5940057_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5940057_Dark_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5940057/womens-sonoma-goods-for-life-9-comfort-waist-utility-bermuda-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5940057_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Olive"
+        ],
+        "availableColr": [
+            "Olive",
+            "Black",
+            "Dark Gray"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 9.52,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6525084",
+        "productTitle": "Women's Sonoma Goods For Life® Premium Roll Cuff Jean Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6525084_Medium_Wash?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 5,
+            "count": 1
+        },
+        "swatchImages": [
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6525084_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6525084_Medium_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6525084_Light_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6525084_Dark_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6525084/womens-sonoma-goods-for-life-premium-roll-cuff-jean-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6525084_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Medium Wash"
+        ],
+        "availableColr": [
+            "White",
+            "Medium Wash",
+            "Light",
+            "Dark"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6077648",
+        "productTitle": "Women's Lee® Ultra Lux Pull-On Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6077648_Pioneer_Beige?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 46,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 23,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4,
+            "count": 9
+        },
+        "swatchImages": [
+            {
+                "color": "Tickle Me Peach",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077648_Tickle_Me_Peach_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077648_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Fort Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077648_Fort_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Tech Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077648_Tech_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pioneer Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077648_Pioneer_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6077648/womens-lee-ultra-lux-pull-on-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6077648_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Pioneer Beige"
+        ],
+        "availableColr": [
+            "Tickle Me Peach",
+            "Black",
+            "Fort Green",
+            "Tech Gray",
+            "Pioneer Beige"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5842075",
+        "productTitle": "Women's Gloria Vanderbilt Belted Trouser Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5842075_Vintage_White?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 49,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 19.6,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 19
+        },
+        "swatchImages": [
+            {
+                "color": "Vintage White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5842075_Vintage_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Persimmon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5842075_Persimmon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Stonewood",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5842075_Stonewood_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Almond Cream",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5842075_Almond_Cream_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5842075/womens-gloria-vanderbilt-belted-trouser-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5842075_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Vintage White"
+        ],
+        "availableColr": [
+            "Vintage White",
+            "Persimmon",
+            "Stonewood",
+            "Almond Cream"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 16.66,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5557777",
+        "productTitle": "Women's Tek Gear® Essential Drawstring Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5557777_Navy_Romance?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 20,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 16.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 335
+        },
+        "swatchImages": [
+            {
+                "color": "Navy Romance",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5557777_Navy_Romance_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5557777_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5557777_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Aruba Bay",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5557777_Aruba_Bay_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5557777/womens-tek-gear-essential-drawstring-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5557777_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Navy Romance"
+        ],
+        "availableColr": [
+            "Navy Romance",
+            "Heather",
+            "Black",
+            "Aruba Bay"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 14.44,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3913048",
+        "productTitle": "Women's Croft & Barrow® Effortless Stretch Bermuda Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3913048_White?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 36,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 12.6,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 1372
+        },
+        "swatchImages": [
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3913048_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3913048_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3913048/womens-croft-barrow-effortless-stretch-bermuda-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3913048_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "White"
+        ],
+        "availableColr": [
+            "White",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 10.71,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4533511",
+        "productTitle": "Women's Gloria Vanderbilt Amanda Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4533511_Alton?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 44,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 1164
+        },
+        "swatchImages": [
+            {
+                "color": "Castle Point",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4533511_Castle_Point_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Stonewood",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4533511_Stonewood_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Alton",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4533511_Alton_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-4533511/womens-gloria-vanderbilt-amanda-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Alton"
+        ],
+        "availableColr": [
+            "Castle Point",
+            "Stonewood",
+            "Alton"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 37.4,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5934037",
+        "productTitle": "Women's Croft & Barrow® Functional Waist Denim Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5934037_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 36,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 12.6,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 70
+        },
+        "swatchImages": [
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5934037_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5934037_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5934037/womens-croft-barrow-functional-waist-denim-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5934037_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "White",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 10.71,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6839437",
+        "productTitle": "Women's Lee® Chino Bermuda Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6839437_Pansy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 44,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 17.6,
+                    "maxPrice": 22
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": null,
+            "count": null
+        },
+        "swatchImages": [
+            {
+                "color": "Preppy Pindot",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6839437_Preppy_Pindot_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pansy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6839437_Pansy_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6839437/womens-lee-chino-bermuda-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6839437_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Pansy"
+        ],
+        "availableColr": [
+            "Preppy Pindot",
+            "Pansy"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "4323082",
+        "productTitle": "Women's Cuddl Duds® Softwear Stretch Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4323082_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 32,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 109
+        },
+        "swatchImages": [
+            {
+                "color": "Ivory",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4323082_Ivory_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4323082_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4323082_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-4323082/womens-cuddl-duds-softwear-stretch-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Ivory",
+            "Black",
+            "Charcoal Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 27.2,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6046058",
+        "productTitle": "Women's FLX Wander Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6046058_Smoky_Denim_Ferry_Blue?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": 45
+                },
+                "salePrice": {
+                    "minPrice": 31.5,
+                    "maxPrice": 34.99
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "Mixed",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.8,
+            "count": 35
+        },
+        "swatchImages": [
+            {
+                "color": "Black Heather Coal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6046058_Black_Heather_Coal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Ivory Silk Sand Trap",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6046058_Ivory_Silk_Sand_Trap_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sugar Berry Lilac B",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6046058_Sugar_Berry_Lilac_B_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Smoky Denim Ferry Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6046058_Smoky_Denim_Ferry_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6046058/womens-flx-wander-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Smoky Denim Ferry Blue"
+        ],
+        "availableColr": [
+            "Black Heather Coal",
+            "Ivory Silk Sand Trap",
+            "Sugar Berry Lilac B",
+            "Smoky Denim Ferry Blue"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 26.77,
+                "maxPrice": 29.74
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6425995",
+        "productTitle": "Women's Hanes® Jersey Drawstring Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6425995_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 18,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 782
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6425995_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6425995_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6425995_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6425995/womens-hanes-jersey-drawstring-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Navy",
+            "Black",
+            "Charcoal Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.3,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5813734",
+        "productTitle": "Women's Nike Attack Dri-FIT Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5813734_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 21,
+                    "maxPrice": 30
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "Mixed",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4,
+            "count": 44
+        },
+        "swatchImages": [
+            {
+                "color": "Light Iron Ore",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5813734_Light_Iron_Ore_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Spring Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5813734_Spring_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5813734_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Active Fuchsia",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5813734_Active_Fuchsia_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Indigo Haze",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5813734_Indigo_Haze_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5813734/womens-nike-attack-dri-fit-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5813734_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Light Iron Ore",
+            "Spring Green",
+            "Black",
+            "Active Fuchsia",
+            "Indigo Haze"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6077481",
+        "productTitle": "Women's Lee® Legendary Rolled Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6077481_Deep_Fog?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 46,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 18.4,
+                    "maxPrice": 23
+                },
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 29
+        },
+        "swatchImages": [
+            {
+                "color": "Deep Fog",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077481_Deep_Fog_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077481_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lovat",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077481_Lovat_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Tickle Me Peach",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077481_Tickle_Me_Peach_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077481_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Tech Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077481_Tech_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pioneer Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6077481_Pioneer_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6077481/womens-lee-legendary-rolled-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Deep Fog"
+        ],
+        "availableColr": [
+            "Deep Fog",
+            "White",
+            "Lovat",
+            "Tickle Me Peach",
+            "Black",
+            "Tech Gray",
+            "Pioneer Beige"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5899085",
+        "productTitle": "Women's Eddie Bauer Rainier Waterproof Active Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5899085_Pumice?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.8,
+            "count": 296
+        },
+        "swatchImages": [
+            {
+                "color": "Pumice",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5899085_Pumice_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5899085_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-5899085/womens-eddie-bauer-rainier-waterproof-active-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5899085_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Pumice"
+        ],
+        "availableColr": [
+            "Pumice",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5211024",
+        "productTitle": "Juniors' SO® Low-Rise Midi Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5211024_Light?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:39:10 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:39:10 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 477
+        },
+        "swatchImages": [
+            {
+                "color": "Dark Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5211024_Dark_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5211024_Light_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Destruction",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5211024_Medium_Destruction_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Clean White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5211024_Clean_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Antique Garden",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5211024_Antique_Garden_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5211024_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Laughlin Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5211024_Laughlin_Green_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5211024/juniors-so-low-rise-midi-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Light"
+        ],
+        "availableColr": [
+            "Dark Wash",
+            "Light",
+            "Medium Destruction",
+            "Clean White",
+            "Antique Garden",
+            "Black",
+            "Laughlin Green"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    }
+]

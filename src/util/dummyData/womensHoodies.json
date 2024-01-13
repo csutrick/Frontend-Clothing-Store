@@ -1,0 +1,2551 @@
+[
+    {
+        "webID": "5522495",
+        "productTitle": "Women's Tek Gear® Ultrasoft Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5522495_Metro_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 17.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 22:13:11 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 22:13:11 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 1825
+        },
+        "swatchImages": [
+            {
+                "color": "Magenta Blossom",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Magenta_Blossom_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cyprus Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Cyprus_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Clear Peri",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Clear_Peri_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Ravishing Orchid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Ravishing_Orchid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Grey Leopard",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Grey_Leopard_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "River Moss",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_River_Moss_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Shy Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Shy_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue Crayon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Blue_Crayon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Metro Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Metro_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Presence",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Presence_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Natural Scallop",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Natural_Scallop_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Adoring Lilac",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Adoring_Lilac_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_White_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Aruba Bay",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Aruba_Bay_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Brisk Mint",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5522495_Brisk_Mint_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5522495/womens-tek-gear-ultrasoft-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Metro Heather"
+        ],
+        "availableColr": [
+            "Magenta Blossom",
+            "Cyprus Blue",
+            "Clear Peri",
+            "Black",
+            "Ravishing Orchid",
+            "Grey Leopard",
+            "River Moss",
+            "Shy Green",
+            "Blue Crayon",
+            "Metro Heather",
+            "Presence",
+            "Natural Scallop",
+            "Adoring Lilac",
+            "White Camo",
+            "Aruba Bay",
+            "Brisk Mint"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.29,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6073707",
+        "productTitle": "Women's Under Armour Rival Fleece Big Logo Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6073707_Oatmeal_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 38.5,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 34
+        },
+        "swatchImages": [
+            {
+                "color": "Oatmeal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6073707_Oatmeal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6073707_White_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lime Yellow",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6073707_Lime_Yellow_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cassis",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6073707_Cassis_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6073707_Black_White_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6073707/womens-under-armour-rival-fleece-big-logo-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6073707_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Oatmeal Heather"
+        ],
+        "availableColr": [
+            "Oatmeal Heather",
+            "White Black",
+            "Lime Yellow",
+            "Cassis",
+            "Black White"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5011252",
+        "productTitle": "Women's Tek Gear® Ultrasoft Fleece Sweatshirt",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5011252_White_Camo?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 21.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 15.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 22:17:39 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 22:17:39 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 9574
+        },
+        "swatchImages": [
+            {
+                "color": "Magenta Blossom",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Magenta_Blossom_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy Romance",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Navy_Romance_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Real Lemon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Real_Lemon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cyprus Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Cyprus_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Clear Peri",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Clear_Peri_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Black_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lupine Lilac",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Lupine_Lilac_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Avenue Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Avenue_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gale Orchid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Gale_Orchid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Shy Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Shy_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Wildflower Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Wildflower_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Metro Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Metro_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue Crayon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Blue_Crayon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Presence",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Presence_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Chicago Red",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Chicago_Red_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Aruba Bay",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Aruba_Bay_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rose Leopard",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Rose_Leopard_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Brisk Mint",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Brisk_Mint_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_White_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Night Life Teal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Night_Life_Teal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Strawberry Malt",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Strawberry_Malt_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Ravishing Orchid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Ravishing_Orchid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Night Sangria",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Night_Sangria_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Fanatic Pink",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Fanatic_Pink_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "River Moss",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_River_Moss_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Grape Grenache",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Grape_Grenache_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_White_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Natural Scallop",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Natural_Scallop_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Paige Purple",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5011252_Paige_Purple_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5011252/womens-tek-gear-ultrasoft-fleece-sweatshirt.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5011252_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "White Camo"
+        ],
+        "availableColr": [
+            "Magenta Blossom",
+            "Navy Romance",
+            "Real Lemon",
+            "Cyprus Blue",
+            "Clear Peri",
+            "Black White",
+            "Lupine Lilac",
+            "Avenue Green",
+            "Gale Orchid",
+            "Shy Green",
+            "Wildflower Blue",
+            "Metro Heather",
+            "Blue Crayon",
+            "Presence",
+            "Chicago Red",
+            "Aruba Bay",
+            "Rose Leopard",
+            "Brisk Mint",
+            "White Black",
+            "Night Life Teal",
+            "Strawberry Malt",
+            "Mineral Black",
+            "Ravishing Orchid",
+            "Night Sangria",
+            "Fanatic Pink",
+            "River Moss",
+            "Grape Grenache",
+            "White Camo",
+            "Natural Scallop",
+            "Paige Purple"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 13.59,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6241986",
+        "productTitle": "Women's Sonoma Goods For Life® Favorite Zip Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6241986_White_Oak?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 252
+        },
+        "swatchImages": [
+            {
+                "color": "Asphalt",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6241986_Asphalt_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Luxe Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6241986_Luxe_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White Oak",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6241986_White_Oak_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pitch Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6241986_Pitch_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6241986/womens-sonoma-goods-for-life-favorite-zip-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6241986_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "White Oak"
+        ],
+        "availableColr": [
+            "Asphalt",
+            "Luxe Blue",
+            "White Oak",
+            "Pitch Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5527170",
+        "productTitle": "Plus Size Tek Gear® Ultrasoft Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5527170_Natural_Scallop?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 17.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 1825
+        },
+        "swatchImages": [
+            {
+                "color": "River Moss",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_River_Moss_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Shy Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Shy_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Magenta Blossom",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Magenta_Blossom_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Metro Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Metro_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Real Lemon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Real_Lemon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue Crayon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Blue_Crayon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cyprus Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Cyprus_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Clear Peri",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Clear_Peri_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Presence",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Presence_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Natural Scallop",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Natural_Scallop_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Paige Purple",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5527170_Paige_Purple_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5527170/plus-size-tek-gear-ultrasoft-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5527170_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Natural Scallop"
+        ],
+        "availableColr": [
+            "River Moss",
+            "Shy Green",
+            "Magenta Blossom",
+            "Metro Heather",
+            "Real Lemon",
+            "Blue Crayon",
+            "Cyprus Blue",
+            "Clear Peri",
+            "Presence",
+            "Natural Scallop",
+            "Black",
+            "Paige Purple"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.29,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4148815",
+        "productTitle": "Women's Hanes® EcoSmart Full-Zip Hoodie Sweatshirt",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4148815_Ebony?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 1814
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4148815_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4148815_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pale Pink",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4148815_Pale_Pink_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Slate Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4148815_Slate_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Ebony",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4148815_Ebony_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Violet Splendor",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4148815_Violet_Splendor_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Steel",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4148815_Light_Steel_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4148815/womens-hanes-ecosmart-full-zip-hoodie-sweatshirt.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/4148815_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Ebony"
+        ],
+        "availableColr": [
+            "Navy",
+            "White",
+            "Pale Pink",
+            "Slate Heather",
+            "Ebony",
+            "Violet Splendor",
+            "Light Steel"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 25.5,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6101504",
+        "productTitle": "Women's Eddie Bauer Cozy Camp Full-Zip Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6101504_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 75,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 2052
+        },
+        "swatchImages": [
+            {
+                "color": "Peacock",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6101504_Peacock_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Port",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6101504_Port_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6101504_Heather_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6101504_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Tan",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6101504_Dark_Tan_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6101504/womens-eddie-bauer-cozy-camp-full-zip-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6101504_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Peacock",
+            "Port",
+            "Heather Gray",
+            "Black",
+            "Dark Tan"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6333732",
+        "productTitle": "Juniors' SO® Oversized Tunic Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6333732_Coconut_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 24,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 66
+        },
+        "swatchImages": [
+            {
+                "color": "Chocolate Wine",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6333732_Chocolate_Wine_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Coconut Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6333732_Coconut_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Night Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6333732_Night_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6333732_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6333732/juniors-so-oversized-tunic-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6333732_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Coconut Heather"
+        ],
+        "availableColr": [
+            "Chocolate Wine",
+            "Coconut Heather",
+            "Night Blue",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 20.4,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6073468",
+        "productTitle": "Women's Under Armour Rival Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6073468_Black_White?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 38.5,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 18
+        },
+        "swatchImages": [
+            {
+                "color": "White Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6073468_White_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Varsity Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6073468_Varsity_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6073468_Black_White_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6073468/womens-under-armour-rival-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6073468_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black White"
+        ],
+        "availableColr": [
+            "White Black",
+            "Varsity Blue",
+            "Black White"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6677419",
+        "productTitle": "Women's Hanes® EcoSmart Fleece Tunic Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6677419_Ebony?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 28,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 21
+        },
+        "swatchImages": [
+            {
+                "color": "Spanish Moss",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6677419_Spanish_Moss_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Slate Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6677419_Slate_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Ebony",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6677419_Ebony_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Steel",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6677419_Light_Steel_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6677419_Navy_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6677419/womens-hanes-ecosmart-fleece-tunic-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6677419_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Ebony"
+        ],
+        "availableColr": [
+            "Spanish Moss",
+            "Slate Heather",
+            "Ebony",
+            "Light Steel",
+            "Navy Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 23.8,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5585853",
+        "productTitle": "Juniors' SO® Favorite Full-Zip Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5585853_Grey_Fox_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 690
+        },
+        "swatchImages": [
+            {
+                "color": "Black Luxe",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5585853_Black_Luxe_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5585853_Dark_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue Floral",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5585853_Blue_Floral_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Stone Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5585853_Black_Stone_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Berry Magnolia",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5585853_Berry_Magnolia_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mocha Froth",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5585853_Mocha_Froth_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Grey Fox Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5585853_Grey_Fox_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-5585853/juniors-so-favorite-full-zip-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Grey Fox Heather"
+        ],
+        "availableColr": [
+            "Black Luxe",
+            "Dark Camo",
+            "Blue Floral",
+            "Black Stone Wash",
+            "Berry Magnolia",
+            "Mocha Froth",
+            "Grey Fox Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6119725",
+        "productTitle": "Women's Tek Gear® Essential Hooded Jacket",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6119725_Clear_Peri?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": 35
+                },
+                "salePrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "Mixed",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 266
+        },
+        "swatchImages": [
+            {
+                "color": "Navy Romance",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6119725_Navy_Romance_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Clear Peri",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6119725_Clear_Peri_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Aqua Oasis",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6119725_Aqua_Oasis_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lilac Corsage",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6119725_Lilac_Corsage_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Modern White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6119725_Modern_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Presence",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6119725_Presence_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6119725_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deco Sangria",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6119725_Deco_Sangria_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6119725/womens-tek-gear-essential-hooded-jacket.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6119725_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Clear Peri"
+        ],
+        "availableColr": [
+            "Navy Romance",
+            "Clear Peri",
+            "Aqua Oasis",
+            "Lilac Corsage",
+            "Modern White",
+            "Presence",
+            "Mineral Black",
+            "Deco Sangria"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6242659",
+        "productTitle": "Women's Tek Gear® Ultra Soft Fleece Cowlneck Sweatshirt",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6242659_Metro_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 17.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:56:50 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:56:50 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 34
+        },
+        "swatchImages": [
+            {
+                "color": "River Moss",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6242659_River_Moss_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Metro Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6242659_Metro_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6242659_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Paige Purple",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6242659_Paige_Purple_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6242659/womens-tek-gear-ultra-soft-fleece-cowlneck-sweatshirt.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6242659_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Metro Heather"
+        ],
+        "availableColr": [
+            "River Moss",
+            "Metro Heather",
+            "Mineral Black",
+            "Paige Purple"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.29,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6112186",
+        "productTitle": "Women's Sonoma Goods For Life® Terry Zip-Up Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6112186_Heather_Gray?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 36,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 81
+        },
+        "swatchImages": [
+            {
+                "color": "Lilac",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6112186_Lilac_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6112186_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Coral",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6112186_Coral_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6112186_Heather_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6112186/womens-sonoma-goods-for-life-terry-zip-up-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6112186_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Heather Gray"
+        ],
+        "availableColr": [
+            "Lilac",
+            "Blue",
+            "Coral",
+            "Heather Gray"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6317582",
+        "productTitle": "Juniors' SO® Cozy Tunic Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6317582_Black_Luxe?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 30,
+                    "maxPrice": 32
+                },
+                "salePrice": {
+                    "minPrice": 18,
+                    "maxPrice": 19.2
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:34:03 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:34:03 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 124
+        },
+        "swatchImages": [
+            {
+                "color": "Black Luxe",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6317582_Black_Luxe_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sophisticated Red",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6317582_Sophisticated_Red_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6317582/juniors-so-cozy-tunic-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6317582_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black Luxe"
+        ],
+        "availableColr": [
+            "Black Luxe",
+            "Sophisticated Red"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.3,
+                "maxPrice": 16.32
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6166002",
+        "productTitle": "Women's Cuddl Duds® Stretchy Thermal Tunic Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6166002_Mulberry_Mist_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 24,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:42:10 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:42:10 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 79
+        },
+        "swatchImages": [
+            {
+                "color": "Stone Gray Fairisle",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6166002_Stone_Gray_Fairisle_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mulberry Mist Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6166002_Mulberry_Mist_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Soft Olive Fairisle",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6166002_Soft_Olive_Fairisle_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6166002/womens-cuddl-duds-stretchy-thermal-tunic-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6166002_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Mulberry Mist Heather"
+        ],
+        "availableColr": [
+            "Stone Gray Fairisle",
+            "Mulberry Mist Heather",
+            "Soft Olive Fairisle"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 20.4,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6302973",
+        "productTitle": "Juniors' Rewind Lace Trimmed Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6302973_Vintage_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 36,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 21.6,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 3.9,
+            "count": 44
+        },
+        "swatchImages": [
+            {
+                "color": "Drew Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6302973_Drew_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "English Cream",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6302973_English_Cream_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mocha Frosting",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6302973_Mocha_Frosting_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6302973_Heather_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Vintage Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6302973_Vintage_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Washed Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6302973_Washed_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6302973/juniors-rewind-lace-trimmed-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6302973_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Vintage Black"
+        ],
+        "availableColr": [
+            "Drew Green",
+            "English Cream",
+            "Mocha Frosting",
+            "Heather Gray",
+            "Vintage Black",
+            "Washed Navy"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 18.36,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6145050",
+        "productTitle": "Women's Champion® Powerblend Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6145050_Oxford_Gray?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 26
+        },
+        "swatchImages": [
+            {
+                "color": "New Palatinate Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6145050_New_Palatinate_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Oxford Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6145050_Oxford_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lavish Lavender",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6145050_Lavish_Lavender_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6145050_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6145050/womens-champion-powerblend-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6145050_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Oxford Gray"
+        ],
+        "availableColr": [
+            "New Palatinate Blue",
+            "Oxford Gray",
+            "Lavish Lavender",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "4898202",
+        "productTitle": "Girls 7-20 Under Armour Iridescent Logo Armour Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4898202_Blizzard_Iridescent?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 24,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 79
+        },
+        "swatchImages": [
+            {
+                "color": "Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4898202_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pink",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4898202_Pink_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Purple",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4898202_Purple_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rebel Pink Iridescent",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4898202_Rebel_Pink_Iridescent_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4898202_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blizzard Iridescent",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4898202_Blizzard_Iridescent_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4898202/girls-7-20-under-armour-iridescent-logo-armour-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/4898202_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Blizzard Iridescent"
+        ],
+        "availableColr": [
+            "Gray",
+            "Pink",
+            "Purple",
+            "Rebel Pink Iridescent",
+            "Black",
+            "Blizzard Iridescent"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6262456",
+        "productTitle": "Women's Tek Gear V-Neck Easy Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6262456_Presence?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 26.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 52
+        },
+        "swatchImages": [
+            {
+                "color": "Gale Orchid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6262456_Gale_Orchid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cyprus Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6262456_Cyprus_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Clear Peri",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6262456_Clear_Peri_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Presence",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6262456_Presence_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6262456_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deco Sangria",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6262456_Deco_Sangria_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6262456/womens-tek-gear-v-neck-easy-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6262456_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Presence"
+        ],
+        "availableColr": [
+            "Gale Orchid",
+            "Cyprus Blue",
+            "Clear Peri",
+            "Presence",
+            "Mineral Black",
+            "Deco Sangria"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 22.94,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6145057",
+        "productTitle": "Women's Champion® Powerblend Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6145057_Evening_Blush_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 21
+        },
+        "swatchImages": [
+            {
+                "color": "Evening Blush Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6145057_Evening_Blush_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Oxford Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6145057_Oxford_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Terracotta Pe Heathere",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6145057_Terracotta_Pe_Heathere_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6145057/womens-champion-powerblend-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6145057_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Evening Blush Heather"
+        ],
+        "availableColr": [
+            "Evening Blush Heather",
+            "Oxford Gray",
+            "Terracotta Pe Heathere"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5584269",
+        "productTitle": "Women's Nike Sportswear Club Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5584269_University_Blue?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 65,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 253
+        },
+        "swatchImages": [
+            {
+                "color": "University Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5584269_University_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5584269_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gray Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5584269_Gray_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5584269/womens-nike-sportswear-club-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5584269_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "University Blue"
+        ],
+        "availableColr": [
+            "University Blue",
+            "Black",
+            "Gray Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6512895",
+        "productTitle": "Juniors' Ford Bronco Desert Graphic Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6512895?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 42,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 35.7,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 5,
+            "count": 8
+        },
+        "swatchImages": [],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6512895/juniors-ford-bronco-desert-graphic-hoodie.jsp",
+        "variations": "Size",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Shadow"
+        ],
+        "availableColr": [
+            "Shadow"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 30.34,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6337187",
+        "productTitle": "Women's Michigan Wolverines Heather Grey Pullover Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6337187?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 27.5,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:59:36 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:59:36 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.9,
+            "count": 8
+        },
+        "swatchImages": [],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6337187/womens-michigan-wolverines-heather-grey-pullover-hoodie.jsp",
+        "variations": "Size",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Mic Gray"
+        ],
+        "availableColr": [
+            "Mic Gray"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    }
+]

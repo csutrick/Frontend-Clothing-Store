@@ -1,0 +1,2663 @@
+[
+    {
+        "webID": "3716820",
+        "productTitle": "Men's Haggar® Iron Free Premium Khaki™ Straight-Fit Flat Front Perfect Fit Waistband Casual Pant",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3716820_Medium_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 1038
+        },
+        "swatchImages": [
+            {
+                "color": "Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3716820_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3716820_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sand",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3716820_Sand_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3716820_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3716820_Dark_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3716820_Medium_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-3716820/mens-haggar-iron-free-premium-khaki-straight-fit-flat-front-perfect-fit-waistband-casual-pant.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Medium Khaki"
+        ],
+        "availableColr": [
+            "Brown",
+            "Navy",
+            "Sand",
+            "Black",
+            "Dark Gray",
+            "Medium Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 51,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Only Show Offers"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4869296",
+        "productTitle": "Men’s Sonoma Goods For Life® Straight-Fit 5-Pocket Everyday Pant",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4869296_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 476
+        },
+        "swatchImages": [
+            {
+                "color": "Taupe",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4869296_Taupe_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4869296_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4869296_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4869296_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Army Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4869296_Army_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4869296_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Grey",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4869296_Light_Grey_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-4869296/mens-sonoma-goods-for-life-straight-fit-5-pocket-everyday-pant.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Khaki"
+        ],
+        "availableColr": [
+            "Taupe",
+            "Gray",
+            "Navy",
+            "Khaki",
+            "Army Green",
+            "Black",
+            "Light Grey"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 29.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "2865618",
+        "productTitle": "Men's Sonoma Goods For Life® Straight-Fit Stretch Chinos",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/2865618_Light_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 985
+        },
+        "swatchImages": [
+            {
+                "color": "Dark Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2865618_Dark_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sand Trap",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2865618_Sand_Trap_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2865618_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rock Wall",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2865618_Rock_Wall_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2865618_Light_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-2865618/mens-sonoma-goods-for-life-flexwear-stretch-chino-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Light Khaki"
+        ],
+        "availableColr": [
+            "Dark Khaki",
+            "Sand Trap",
+            "Black",
+            "Rock Wall",
+            "Light Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 29.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3696341",
+        "productTitle": "Men's Haggar® Iron Free Premium Khaki™ Classic-Fit Flat Front Hidden Comfort Waistband Casual Pant",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3696341_Medium_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 1720
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3696341_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sand",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3696341_Sand_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Toast",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3696341_Toast_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3696341_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3696341_Dark_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3696341_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3696341_Dark_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3696341_Medium_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-3696341/mens-haggar-iron-free-premium-khaki-classic-fit-flat-front-hidden-comfort-waistband-casual-pant.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Medium Khaki"
+        ],
+        "availableColr": [
+            "Navy",
+            "Sand",
+            "Toast",
+            "Black",
+            "Dark Gray",
+            "Charcoal Heather",
+            "Dark Brown",
+            "Medium Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 51,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Only Show Offers"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3930126",
+        "productTitle": "Men's Haggar® Cool Right® Performance Flex Classic-Fit Flat-Front Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3930126_String?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 1215
+        },
+        "swatchImages": [
+            {
+                "color": "Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Gray Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_Dark_Gray_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Ink",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_Ink_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_Heather_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "String",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_String_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Midnight",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_Midnight_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_Dark_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3930126_Charcoal_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-3930126/mens-haggar-cool-right-performance-flex-classic-fit-flat-front-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "String"
+        ],
+        "availableColr": [
+            "Brown",
+            "Dark Gray Heather",
+            "Khaki",
+            "Ink",
+            "Heather Gray",
+            "Black",
+            "String",
+            "Midnight",
+            "Dark Gray",
+            "Charcoal"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 51,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Only Show Offers"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4952631",
+        "productTitle": "Men's Tek Gear® Ultra Soft Fleece Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4952631_Grey_Dark?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 21.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 15.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 3121
+        },
+        "swatchImages": [
+            {
+                "color": "Grey Dark",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952631_Grey_Dark_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dress Blues",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952631_Dress_Blues_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952631_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4952631/mens-tek-gear-ultra-soft-fleece-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/4952631_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Grey Dark"
+        ],
+        "availableColr": [
+            "Grey Dark",
+            "Dress Blues",
+            "Mineral Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 13.59,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3023504",
+        "productTitle": "Men's Sonoma Goods For Life® Straight-Fit Cargo Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3023504_Light_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 1499
+        },
+        "swatchImages": [
+            {
+                "color": "Dark Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3023504_Dark_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Olive Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3023504_Olive_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3023504_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rock Wall",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3023504_Rock_Wall_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3023504_Light_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-3023504/mens-sonoma-goods-for-life-regular-fit-flexwear-stretch-cargo-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Light Khaki"
+        ],
+        "availableColr": [
+            "Dark Khaki",
+            "Olive Green",
+            "Black",
+            "Rock Wall",
+            "Light Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 29.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "2612674",
+        "productTitle": "Men's Haggar® Cool 18® PRO Classic-Fit Wrinkle-Free Flat-Front Expandable Waist Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/2612674_String?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": 60
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 1190
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2612674_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2612674_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2612674_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "String",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2612674_String_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-2612674/mens-haggar-cool-18-pro-classic-fit-wrinkle-free-flat-front-expandable-waist-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "String"
+        ],
+        "availableColr": [
+            "Navy",
+            "White",
+            "Black",
+            "String"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 46.75,
+                "maxPrice": 51
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Only Show Offers"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6102505",
+        "productTitle": "Men's Sonoma Goods For Life® Slim-Fit Pull-On Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6102505_English_Elm?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 68
+        },
+        "swatchImages": [
+            {
+                "color": "Black Luxe",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102505_Black_Luxe_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Castle Rock",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102505_Castle_Rock_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Wood Grain",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102505_Wood_Grain_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "English Elm",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102505_English_Elm_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dusty Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102505_Dusty_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Alloy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102505_Alloy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Turnberry Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102505_Turnberry_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-6102505/mens-sonoma-goods-for-life-slim-fit-pull-on-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6102505_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "English Elm"
+        ],
+        "availableColr": [
+            "Black Luxe",
+            "Castle Rock",
+            "Wood Grain",
+            "English Elm",
+            "Dusty Olive",
+            "Alloy",
+            "Turnberry Blue"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 25.49,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "2847154",
+        "productTitle": "Men’s Haggar® Premium No-Iron Khaki Stretch Classic-Fit Pleated Expandable Waist Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/2847154_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 884
+        },
+        "swatchImages": [
+            {
+                "color": "British Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2847154_British_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2847154_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sand",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2847154_Sand_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2847154_Dark_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Toast",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2847154_Toast_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2847154_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2847154_Dark_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-2847154/mens-haggar-premium-no-iron-khaki-stretch-classic-fit-pleated-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Khaki"
+        ],
+        "availableColr": [
+            "British Khaki",
+            "Khaki",
+            "Sand",
+            "Dark Navy",
+            "Toast",
+            "Black",
+            "Dark Gray"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 51,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Only Show Offers"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4952247",
+        "productTitle": "Men's Tek Gear® Ultra Soft Fleece Joggers",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4952247_Nolan_Beige?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 21.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 15.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 3144
+        },
+        "swatchImages": [
+            {
+                "color": "Dark Gray Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952247_Dark_Gray_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952247_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Nolan Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952247_Nolan_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4952247/mens-tek-gear-ultra-soft-fleece-joggers.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Nolan Beige"
+        ],
+        "availableColr": [
+            "Dark Gray Heather",
+            "Mineral Black",
+            "Nolan Beige"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 13.59,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5290651",
+        "productTitle": "Men's Lee® Extreme Comfort MVP Relaxed-Fit Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5290651_Oscar_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 452
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5290651_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Engineer",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5290651_Engineer_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Forest",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5290651_Forest_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Coventry",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5290651_Coventry_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gravel",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5290651_Gravel_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5290651_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Oscar Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5290651_Oscar_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-5290651/mens-lee-extreme-comfort-mvp-relaxed-fit-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Oscar Khaki"
+        ],
+        "availableColr": [
+            "Navy",
+            "Engineer",
+            "Forest",
+            "Coventry",
+            "Gravel",
+            "Black",
+            "Oscar Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6103402",
+        "productTitle": "Men's Sonoma Goods For Life® Zip Pocket Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6103402_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 73
+        },
+        "swatchImages": [
+            {
+                "color": "Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6103402_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6103402_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6103402_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Kagan Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6103402_Kagan_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6103402_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-6103402/mens-sonoma-goods-for-life-zip-pocket-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6103402_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Khaki"
+        ],
+        "availableColr": [
+            "Olive",
+            "Gray",
+            "Khaki",
+            "Kagan Khaki",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 25.49,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6109309",
+        "productTitle": "Men's Sonoma Goods For Life® Flexwear Straight-Fit Chinos",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6109309_Light_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 22:51:00 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 22:51:00 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 109
+        },
+        "swatchImages": [
+            {
+                "color": "Rockwall",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6109309_Rockwall_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6109309_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6109309_Dark_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sand Trap",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6109309_Sand_Trap_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6109309_Light_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Midnight Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6109309_Midnight_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-6109309/mens-sonoma-goods-for-life-flexwear-straight-fit-chinos.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6109309_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Light Khaki"
+        ],
+        "availableColr": [
+            "Rockwall",
+            "Brown",
+            "Dark Khaki",
+            "Sand Trap",
+            "Light Khaki",
+            "Midnight Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 29.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4341799",
+        "productTitle": "Men's Tek Gear Workout Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4341799_Mineral_Black_White?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 2092
+        },
+        "swatchImages": [
+            {
+                "color": "Black Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4341799_Black_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4341799_Mineral_Black_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Hawk Gray Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4341799_Hawk_Gray_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "best_seller"
+        ],
+        "valueAddedBadges": {
+            "realTime": [
+                "best_seller"
+            ],
+            "pricing": [],
+            "other": []
+        },
+        "seoURL": "/product/prd-4341799/mens-tek-gear-workout-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/4341799_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Mineral Black White"
+        ],
+        "availableColr": [
+            "Black Black",
+            "Mineral Black White",
+            "Hawk Gray Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 25.5,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6290816",
+        "productTitle": "Men's Sonoma Goods For Life® Flexwear Athletic-Fit Chinos",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6290816_Dark_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 23
+        },
+        "swatchImages": [
+            {
+                "color": "Dark Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6290816_Dark_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6290816_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rock Wall",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6290816_Rock_Wall_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6290816_Light_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-6290816/mens-sonoma-goods-for-life-flexwear-athletic-fit-chinos.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6290816_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Dark Khaki"
+        ],
+        "availableColr": [
+            "Dark Khaki",
+            "Black",
+            "Rock Wall",
+            "Light Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 29.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4970384",
+        "productTitle": "Men's Sonoma Goods For Life® Regular-Fit Everyday Jean",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4970384_Light_Stone?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 2730
+        },
+        "swatchImages": [
+            {
+                "color": "Dark Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Dark_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Stone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Medium_Stone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Blue Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Light_Blue_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Medium_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Worn",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Dark_Worn_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Stone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Light_Stone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Stone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Dark_Stone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Vintage",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Dark_Vintage_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Indigo Stone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Indigo_Stone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Washed Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Washed_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rinse",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4970384_Rinse_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-4970384/mens-sonoma-goods-for-life-regular-fit-everyday-jean.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Light Stone"
+        ],
+        "availableColr": [
+            "Dark Wash",
+            "Medium Stone",
+            "Light Blue Wash",
+            "Medium Wash",
+            "Dark Worn",
+            "Light Stone",
+            "Dark Stone",
+            "Dark Vintage",
+            "Indigo Stone",
+            "Washed Black",
+            "Black",
+            "Rinse"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 25.49,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "2575583",
+        "productTitle": "Men's Haggar® Classic-Fit Stretch Expandable Waistband Corduroy Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/2575583_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 787
+        },
+        "swatchImages": [
+            {
+                "color": "Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cadet Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Cadet_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Military Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Military_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Espresso",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Espresso_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dusk",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Dusk_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Camel",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Camel_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Dark_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Charcoal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2575583_Medium_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-2575583/mens-haggar-classic-fit-stretch-expandable-waistband-corduroy-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Khaki"
+        ],
+        "availableColr": [
+            "Brown",
+            "Khaki",
+            "Cadet Blue",
+            "Military Green",
+            "Espresso",
+            "Dusk",
+            "Camel",
+            "Dark Gray",
+            "Charcoal",
+            "Medium Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 51,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Only Show Offers"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5949548",
+        "productTitle": "Men's Dickies Cooling Hybrid Utility Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5949548_Mushroom?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 44.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 5,
+            "count": 5
+        },
+        "swatchImages": [
+            {
+                "color": "Mushroom",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5949548_Mushroom_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5949548_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-5949548/mens-dickies-cooling-hybrid-utility-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Mushroom"
+        ],
+        "availableColr": [
+            "Mushroom",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 38.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6176577",
+        "productTitle": "Men's Hurley Moisture-Wicking Commuter Tapered Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6176577_Iron_Ore?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.9,
+            "count": 8
+        },
+        "swatchImages": [
+            {
+                "color": "Woodlands",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6176577_Woodlands_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Iron Ore",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6176577_Iron_Ore_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6176577_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6176577/mens-hurley-moisture-wicking-commuter-tapered-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6176577_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Iron Ore"
+        ],
+        "availableColr": [
+            "Woodlands",
+            "Iron Ore",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3714959",
+        "productTitle": "Men's Haggar® Iron Free Premium Khaki™ Classic-Fit Pleat Front Hidden Comfort Waistband Casual Pant",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3714959_Medium_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 768
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3714959_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sand",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3714959_Sand_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3714959_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3714959_Dark_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3714959_Medium_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3714959_Dark_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-3714959/mens-haggar-iron-free-premium-khaki-classic-fit-pleat-front-hidden-comfort-waistband-casual-pant.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Medium Khaki"
+        ],
+        "availableColr": [
+            "Navy",
+            "Sand",
+            "Black",
+            "Dark Gray",
+            "Medium Khaki",
+            "Dark Brown"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 51,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Only Show Offers"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3077966",
+        "productTitle": "Men’s Haggar® Premium Comfort Expandable-Waist Classic-Fit Stretch Flat-Front Dress Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3077966_Medium_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 1179
+        },
+        "swatchImages": [
+            {
+                "color": "Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Dark_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Medium_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mocha",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Mocha_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Stone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Stone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Medium_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Charcoal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3077966_Dark_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3077966/mens-haggar-premium-comfort-stretch-classic-fit-flat-front-dress-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Medium Khaki"
+        ],
+        "availableColr": [
+            "Gray",
+            "Dark Navy",
+            "Blue",
+            "Medium Gray",
+            "Black",
+            "Mocha",
+            "Stone",
+            "Medium Khaki",
+            "Charcoal",
+            "Dark Brown"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 51,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Only Show Offers"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "2844594",
+        "productTitle": "Men's Classic-Fit Cook Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/2844594_Black_White_Check?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 3.6,
+            "count": 119
+        },
+        "swatchImages": [
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2844594_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2844594_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black White Check",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2844594_Black_White_Check_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-2844594/mens-classic-fit-cook-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black White Check"
+        ],
+        "availableColr": [
+            "White",
+            "Black",
+            "Black White Check"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 25.49,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4882608",
+        "productTitle": "Men's adidas Essentials Fleece Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4882608_Dark_Gray_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:14 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:14 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 1392
+        },
+        "swatchImages": [],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4882608/mens-adidas-essentials-fleece-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Dark Gray Black"
+        ],
+        "availableColr": [
+            "Dark Gray Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    }
+]

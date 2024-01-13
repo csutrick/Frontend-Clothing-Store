@@ -1,0 +1,2541 @@
+[
+    {
+        "webID": "4972082",
+        "productTitle": "Men's Tek Gear® Ultra Soft Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4972082_Mint?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 18.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 5611
+        },
+        "swatchImages": [
+            {
+                "color": "Grey Dark",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4972082_Grey_Dark_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pacific Pine",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4972082_Pacific_Pine_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mint",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4972082_Mint_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cattail",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4972082_Cattail_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dress Blues",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4972082_Dress_Blues_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4972082_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Nolan Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4972082_Nolan_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Grey Light",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4972082_Grey_Light_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4972082/mens-tek-gear-ultra-soft-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/4972082_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Mint"
+        ],
+        "availableColr": [
+            "Grey Dark",
+            "Pacific Pine",
+            "Mint",
+            "Cattail",
+            "Dress Blues",
+            "Mineral Black",
+            "Nolan Beige",
+            "Grey Light"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 16.14,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4952267",
+        "productTitle": "Tek Gear® Ultra Soft Fleece Full Zip Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4952267_Grey_Dark?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 20.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 1724
+        },
+        "swatchImages": [
+            {
+                "color": "Grey Dark",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952267_Grey_Dark_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952267_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952267_Dark_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Nolan Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4952267_Nolan_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4952267/tek-gear-ultra-soft-fleece-full-zip-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/4952267_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Grey Dark"
+        ],
+        "availableColr": [
+            "Grey Dark",
+            "Mineral Black",
+            "Dark Blue",
+            "Nolan Beige"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 17.84,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5567799",
+        "productTitle": "Men's Under Armour Rival Fleece Mountain Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5567799_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 42,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.8,
+            "count": 80
+        },
+        "swatchImages": [
+            {
+                "color": "Colorado Sage",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5567799_Colorado_Sage_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Maroon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5567799_Dark_Maroon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5567799_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cosmic Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5567799_Cosmic_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5567799/mens-under-armour-rival-fleece-mountain-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Colorado Sage",
+            "Dark Maroon",
+            "Black",
+            "Cosmic Blue"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6824257",
+        "productTitle": "Men's Sonoma Goods For Life® Fleece Popover Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6824257_Proteus_Plum?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 17.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": null,
+            "count": null
+        },
+        "swatchImages": [
+            {
+                "color": "Infantry Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824257_Infantry_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Proteus Plum",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824257_Proteus_Plum_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Midnight Black Snow",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824257_Midnight_Black_Snow_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Paramount Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824257_Paramount_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Midnight Black Solid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824257_Midnight_Black_Solid_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6824257/mens-sonoma-goods-for-life-fleece-popover-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Proteus Plum"
+        ],
+        "availableColr": [
+            "Infantry Olive",
+            "Proteus Plum",
+            "Midnight Black Snow",
+            "Paramount Blue",
+            "Midnight Black Solid"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.29,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4489043",
+        "productTitle": "Men's Hanes® EcoSmart Fleece Pullover Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4489043_Army_Brown?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 17,
+                    "maxPrice": 24
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:39:46 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:39:46 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 778
+        },
+        "swatchImages": [
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Heather_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Ash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Ash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Eggplant",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Dark_Eggplant_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Forest",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Deep_Forest_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gold",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Gold_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Maroon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Maroon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Safety Orange",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Safety_Orange_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Safety Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Safety_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Spanish Moss",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Spanish_Moss_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Red",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Deep_Red_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cardinal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Cardinal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Metallic Teal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Metallic_Teal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Army Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Army_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Light_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pale Pink",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Pale_Pink_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Purple",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Purple_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Royal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Deep_Royal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Smoke Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Smoke_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Steel",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Light_Steel_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mulled Berry",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Mulled_Berry_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Denim Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4489043_Denim_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4489043/mens-hanes-ecosmart-fleece-pullover-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Army Brown"
+        ],
+        "availableColr": [
+            "Black",
+            "Heather Navy",
+            "Ash",
+            "Dark Eggplant",
+            "Deep Forest",
+            "Gold",
+            "Maroon",
+            "Safety Orange",
+            "Safety Green",
+            "Spanish Moss",
+            "Deep Red",
+            "Cardinal",
+            "Metallic Teal",
+            "Army Brown",
+            "Light Blue",
+            "Navy",
+            "White",
+            "Pale Pink",
+            "Purple",
+            "Deep Royal",
+            "Smoke Gray",
+            "Charcoal Heather",
+            "Light Steel",
+            "Mulled Berry",
+            "Denim Blue"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 14.45,
+                "maxPrice": 20.4
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3583992",
+        "productTitle": "Men's Nike Sportswear Club Fleece Pullover Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3583992_Midnight_Navy_White?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 65,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 42.25,
+                    "maxPrice": 65
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 22:23:42 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 22:23:42 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "Mixed",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 3558
+        },
+        "swatchImages": [
+            {
+                "color": "Dark Gray Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3583992_Dark_Gray_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Luminous Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3583992_Luminous_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3583992_White_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lightening",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3583992_Lightening_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Midnight Navy White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3583992_Midnight_Navy_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Bone White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3583992_Light_Bone_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3583992_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3583992_Black_White_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3583992/mens-nike-sportswear-club-fleece-pullover-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3583992_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Midnight Navy White"
+        ],
+        "availableColr": [
+            "Dark Gray Heather",
+            "Luminous Green",
+            "White Black",
+            "Lightening",
+            "Midnight Navy White",
+            "Light Bone White",
+            "Charcoal Heather",
+            "Black White"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6824208",
+        "productTitle": "Men's Sonoma Goods For Life® Double-Knit Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6824208_Proteus_Plum?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 17.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 5,
+            "count": 1
+        },
+        "swatchImages": [
+            {
+                "color": "Black Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Black_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Teal Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Teal_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Red Stripe",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Red_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Proteus Plum",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Proteus_Plum_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rust",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Rust_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Moonbeam",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Moonbeam_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gray Stripe",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Gray_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cream",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Cream_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy Stripe",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Navy_Stripe_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Solid Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Solid_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824208_Green_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "Closeout_Deal.jpg"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "closeout_deal"
+            ]
+        },
+        "seoURL": "/product/prd-6824208/mens-sonoma-goods-for-life-double-knit-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Proteus Plum"
+        ],
+        "availableColr": [
+            "Black Gray",
+            "Teal Navy",
+            "Red Stripe",
+            "Proteus Plum",
+            "Rust",
+            "Moonbeam",
+            "Gray Stripe",
+            "Cream",
+            "Navy Stripe",
+            "Black",
+            "Solid Black",
+            "Green"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.29,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3718607",
+        "productTitle": "Men's Champion® Powerblend Fleece Graphic Pullover Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3718607_Team_Red_Scarlet?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": true,
+                "salePriceType": null,
+                "suppressedPricingText": "FOR PRICE,ADD TO BAG",
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 1392
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3718607_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sandalwood Grey",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3718607_Sandalwood_Grey_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3718607_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Oxford Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3718607_Oxford_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Team Red Scarlet",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3718607_Team_Red_Scarlet_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3718607_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Granite Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3718607_Granite_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3718607/mens-champion-logo-pullover-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Team Red Scarlet"
+        ],
+        "availableColr": [
+            "Navy",
+            "Sandalwood Grey",
+            "White",
+            "Oxford Gray",
+            "Team Red Scarlet",
+            "Black",
+            "Granite Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5086670",
+        "productTitle": "Men's Hanes Ultimate® Fleece Pullover Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5086670_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 19,
+                    "maxPrice": 24
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.1,
+            "count": 364
+        },
+        "swatchImages": [
+            {
+                "color": "Maroon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_Maroon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Red",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_Deep_Red_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Royal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_Deep_Royal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Chocolate",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_Dark_Chocolate_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Forest",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_Deep_Forest_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Steel",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086670_Light_Steel_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5086670/mens-hanes-ultimate-fleece-pullover-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Maroon",
+            "Navy",
+            "White",
+            "Deep Red",
+            "Deep Royal",
+            "Dark Chocolate",
+            "Deep Forest",
+            "Black",
+            "Charcoal Heather",
+            "Light Steel"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 16.15,
+                "maxPrice": 20.4
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6824256",
+        "productTitle": "Men's Sonoma Goods For Life® Garment Dyed Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6824256_Plum?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 17.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 3,
+            "count": 2
+        },
+        "swatchImages": [
+            {
+                "color": "Tan",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824256_Tan_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824256_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Plum",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824256_Plum_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824256_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824256_Mineral_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "Closeout_Deal.jpg"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "closeout_deal"
+            ]
+        },
+        "seoURL": "/product/prd-6824256/mens-sonoma-goods-for-life-garment-dyed-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6824256_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Plum"
+        ],
+        "availableColr": [
+            "Tan",
+            "Olive",
+            "Plum",
+            "Black",
+            "Mineral Navy"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.29,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5086671",
+        "productTitle": "Men's Hanes Ultimate® Fleece Full-Zip Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5086671_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 20,
+                    "maxPrice": 29
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 1148
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086671_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086671_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Red",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086671_Deep_Red_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Royal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086671_Deep_Royal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Chocolate",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086671_Dark_Chocolate_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Forest",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086671_Deep_Forest_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086671_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086671_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Steel",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5086671_Light_Steel_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5086671/mens-hanes-ultimate-fleece-full-zip-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Navy",
+            "White",
+            "Deep Red",
+            "Deep Royal",
+            "Dark Chocolate",
+            "Deep Forest",
+            "Black",
+            "Charcoal Heather",
+            "Light Steel"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 17,
+                "maxPrice": 24.65
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6824271",
+        "productTitle": "Men's Sonoma Goods For Life® Sherpa-Lined Full-Zip Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6824271_Midnight_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4,
+            "count": 4
+        },
+        "swatchImages": [
+            {
+                "color": "Infantry Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824271_Infantry_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Paramount Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824271_Paramount_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Midnight Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6824271_Midnight_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "Closeout_Deal.jpg"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "closeout_deal"
+            ]
+        },
+        "seoURL": "/product/prd-6824271/mens-sonoma-goods-for-life-sherpa-lined-full-zip-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6824271_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Midnight Black"
+        ],
+        "availableColr": [
+            "Infantry Olive",
+            "Paramount Blue",
+            "Midnight Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 25.5,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "2492484",
+        "productTitle": "Men's Champion® Fleece Powerblend Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/2492484_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 735
+        },
+        "swatchImages": [
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2492484_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Oxford Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2492484_Oxford_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2492484_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Granite Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2492484_Granite_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-2492484/mens-champion-powerblend-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "White",
+            "Oxford Gray",
+            "Black",
+            "Granite Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3589597",
+        "productTitle": "Men's Nike Sportswear Club Logo Pullover Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3589597_Fir?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 70,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 556
+        },
+        "swatchImages": [
+            {
+                "color": "Dark Gray Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3589597_Dark_Gray_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3589597_White_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Bone Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3589597_Light_Bone_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3589597_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3589597_Black_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Fir",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3589597_Fir_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3589597/mens-nike-sportswear-club-logo-pullover-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Fir"
+        ],
+        "availableColr": [
+            "Dark Gray Heather",
+            "White Black",
+            "Light Bone Black",
+            "Charcoal Heather",
+            "Black White",
+            "Fir"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "4898633",
+        "productTitle": "Men's Columbia Trek Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4898633_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 33,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 63
+        },
+        "swatchImages": [
+            {
+                "color": "Collegiate Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4898633_Collegiate_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4898633_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4898633/mens-columbia-trek-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Collegiate Navy",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5557414",
+        "productTitle": "Men's Nike Therma-FIT Pullover Fitness Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5557414_Team_Red?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 65,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 22:19:50 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 22:19:50 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 184
+        },
+        "swatchImages": [
+            {
+                "color": "Team Red",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5557414_Team_Red_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5557414_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Obsidian",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5557414_Obsidian_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5557414/mens-nike-therma-fit-pullover-fitness-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5557414_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Team Red"
+        ],
+        "availableColr": [
+            "Team Red",
+            "White",
+            "Obsidian"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6107088",
+        "productTitle": "Big & Tall Under Armour Rival Fleece Logo Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6107088_Sahara?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": true,
+                "salePriceType": null,
+                "suppressedPricingText": "FOR PRICE,ADD TO BAG",
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 30
+        },
+        "swatchImages": [
+            {
+                "color": "Castlerock Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6107088_Castlerock_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Varsity Blue White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6107088_Varsity_Blue_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6107088_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sahara",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6107088_Sahara_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6107088/big-tall-under-armour-rival-fleece-logo-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6107088_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Sahara"
+        ],
+        "availableColr": [
+            "Castlerock Heather",
+            "Varsity Blue White",
+            "Black",
+            "Sahara"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "4957647",
+        "productTitle": "Big & Tall Tek Gear® Ultra Soft Fleece Full Zip Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4957647_Mineral_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 673
+        },
+        "swatchImages": [
+            {
+                "color": "Grey Dark",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4957647_Grey_Dark_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4957647_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-4957647/big-tall-tek-gear-ultra-soft-fleece-full-zip-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Mineral Black"
+        ],
+        "availableColr": [
+            "Grey Dark",
+            "Mineral Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 25.49,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6102481",
+        "productTitle": "Men's Under Armour Rival Fleece Logo Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6102481_Castlerock_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 55,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 144
+        },
+        "swatchImages": [
+            {
+                "color": "Midnight Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102481_Midnight_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Red",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102481_Red_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Castlerock Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102481_Castlerock_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Marine Od Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102481_Marine_Od_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102481_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Harbor Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102481_Harbor_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sahara",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6102481_Sahara_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6102481/mens-under-armour-rival-fleece-logo-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6102481_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Castlerock Heather"
+        ],
+        "availableColr": [
+            "Midnight Navy",
+            "Red",
+            "Castlerock Heather",
+            "Marine Od Green",
+            "Black",
+            "Harbor Blue",
+            "Sahara"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "4882714",
+        "productTitle": "Men's adidas Feel Cozy Pullover Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4882714_Black_White?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 978
+        },
+        "swatchImages": [
+            {
+                "color": "Wonder Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4882714_Wonder_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4882714_White_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Gray Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4882714_Medium_Gray_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Legend Ink White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4882714_Legend_Ink_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Scarlet",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4882714_Scarlet_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Wondr Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4882714_Wondr_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4882714_Black_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Collegiate Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4882714_Collegiate_Green_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4882714/mens-adidas-feel-cozy-pullover-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black White"
+        ],
+        "availableColr": [
+            "Wonder Beige",
+            "White Black",
+            "Medium Gray Black",
+            "Legend Ink White",
+            "Scarlet",
+            "Wondr Blue",
+            "Black White",
+            "Collegiate Green"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3595641",
+        "productTitle": "Men's Columbia Hart Mountain Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3595641_Charcoal_Heather_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 80,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 339
+        },
+        "swatchImages": [
+            {
+                "color": "Oatmeal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3595641_Oatmeal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Mountain",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3595641_Dark_Mountain_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3595641_Charcoal_Heather_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Stone Green Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3595641_Stone_Green_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3595641/mens-columbia-hart-mountain-fleece-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Charcoal Heather Black"
+        ],
+        "availableColr": [
+            "Oatmeal Heather",
+            "Dark Mountain",
+            "Charcoal Heather Black",
+            "Stone Green Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5757122",
+        "productTitle": "Men's Caliville Solid Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5757122_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 5,
+            "count": 5
+        },
+        "swatchImages": [
+            {
+                "color": "Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5757122_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Charcoal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5757122_Heather_Charcoal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5757122_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Brick",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5757122_Brick_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5757122_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5757122/mens-caliville-solid-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Olive",
+            "Heather Charcoal",
+            "Blue",
+            "Brick",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 25.5,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6360233",
+        "productTitle": "Disney’s Mickey Mouse Men's Long Sleeve Fleece Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6360233?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 25,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 5,
+            "count": 7
+        },
+        "swatchImages": [],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6360233/disneys-mickey-mouse-mens-long-sleeve-fleece-hoodie.jsp",
+        "variations": "Size",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6360233_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Slate Gray"
+        ],
+        "availableColr": [
+            "Slate Gray"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 21.25,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5646806",
+        "productTitle": "Men's Big & Tall Sonoma Goods For Life® Double Knit Hoodie",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5646806_Teal_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 17.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 10:48:00 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 10:48:00 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 160
+        },
+        "swatchImages": [
+            {
+                "color": "Teal Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5646806_Teal_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5646806_Black_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Proteus Plum",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5646806_Proteus_Plum_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Solid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5646806_Black_Solid_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5646806/mens-big-tall-sonoma-goods-for-life-double-knit-hoodie.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Teal Navy"
+        ],
+        "availableColr": [
+            "Teal Navy",
+            "Black Gray",
+            "Proteus Plum",
+            "Black Solid"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.29,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    }
+]
