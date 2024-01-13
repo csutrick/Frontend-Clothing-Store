@@ -3,7 +3,7 @@ import React from "react";
 import fetchApiData from "../../../util/fetchApiData.js";
 import fetchJsonDataCategories from "../../../util/fetchJsonDataCategories.js";
 
-const Mens = ({ setSearchResults, useAPI }) => {
+const Womens = ({ setSearchResults, useAPI }) => {
     const handleItemClick = async (searchTerm) => {
         if (useAPI) { // Checks to use API or Mirage
             try {
@@ -27,42 +27,42 @@ const Mens = ({ setSearchResults, useAPI }) => {
         className="relative bg-transparent group">
             <button 
             className="px-2 py-2 text-2xl">
-                Men
+                Women
             </button>
             <ul className="hidden group-hover:block">
                 <li className="flex flex-col">
                     <a 
                         href="#" 
                         className="px-2 py-1 whitespace-nowrap font-bold text-lg"
-                        onClick={() => handleItemClick('Mens Shirts')}
+                        onClick={() => handleItemClick('Womens Shirts')}
                     >
                         Shirts
                     </a>
                     <a 
                         href="#" 
                         className="px-2 py-1 whitespace-nowrap font-bold text-lg"
-                        onClick={() => handleItemClick('Mens Hoodies')}
+                        onClick={() => handleItemClick('Womens Hoodies')}
                     >
                         Hoodies
                     </a>
                     <a 
                         href="#" 
                         className="px-2 py-1 whitespace-nowrap font-bold text-lg"
-                        onClick={() => handleItemClick('Mens Pants')}
+                        onClick={() => handleItemClick('Womens Pants')}
                     >
                         Pants
                     </a>
                     <a 
                         href="#" 
                         className="px-2 py-1 whitespace-nowrap font-bold text-lg"
-                        onClick={() => handleItemClick('Mens Shorts')}
+                        onClick={() => handleItemClick('Womens Shorts')}
                     >
                         Shorts
                     </a>
                     <a 
                         href="#" 
                         className="px-2 py-1 whitespace-nowrap font-bold text-lg"
-                        onClick={() => handleItemClick('Mens Underwear')}
+                        onClick={() => handleItemClick('Womens Underwear')}
                     >
                         Underwear
                     </a>
@@ -72,4 +72,4 @@ const Mens = ({ setSearchResults, useAPI }) => {
   );
 };
 
-export default Mens;
+export default Womens;

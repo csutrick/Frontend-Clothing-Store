@@ -1,5 +1,5 @@
 const fetchData = async (searchTerm) => {
-    console.log(`Searching API for ${searchTerm}s`);
+    console.log(`Searching API for ${searchTerm}`);
     const url = `https://kohls.p.rapidapi.com/products/list?limit=24&offset=1&keyword=${searchTerm}`;
     const options = {
         method: 'GET',

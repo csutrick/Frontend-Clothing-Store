@@ -1,0 +1,2439 @@
+[
+    {
+        "webID": "5953629",
+        "productTitle": "Men's Grand Slam Solid Golf Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5953629_Classic_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 45,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 18,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.8,
+            "count": 21
+        },
+        "swatchImages": [
+            {
+                "color": "Caviar",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5953629_Caviar_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Silver Lining",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5953629_Silver_Lining_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Quiet Shade",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5953629_Quiet_Shade_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Classic Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5953629_Classic_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Chinchilla",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5953629_Chinchilla_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5953629/mens-grand-slam-solid-golf-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5953629_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Classic Navy"
+        ],
+        "availableColr": [
+            "Caviar",
+            "Silver Lining",
+            "Quiet Shade",
+            "Classic Navy",
+            "Chinchilla"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3932653",
+        "productTitle": "Men's Tek Gear® Dry Tek Shorts 9\"",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3932653_Mineral_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 20,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 1288
+        },
+        "swatchImages": [
+            {
+                "color": "Blue White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3932653_Blue_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Olive Solid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3932653_Olive_Solid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3932653_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3932653_Mineral_Black_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Hawk Gray Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3932653_Hawk_Gray_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Cherry",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3932653_Black_Cherry_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "best_seller"
+        ],
+        "valueAddedBadges": {
+            "realTime": [
+                "best_seller"
+            ],
+            "pricing": [],
+            "other": []
+        },
+        "seoURL": "/product/prd-3932653/mens-tek-gear-dry-tek-shorts-9.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Mineral Black"
+        ],
+        "availableColr": [
+            "Blue White",
+            "Olive Solid",
+            "Mineral Black",
+            "Mineral Black Gray",
+            "Hawk Gray Black",
+            "Black Cherry"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 17,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "2379752",
+        "productTitle": "Men's Lee® Wyoming Belted Cargo Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/2379752_Cadet_Gray?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 783
+        },
+        "swatchImages": [
+            {
+                "color": "Blue Mirage Plaid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2379752_Blue_Mirage_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Vapor",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2379752_Vapor_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cadet Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2379752_Cadet_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cement",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2379752_Cement_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Shiner",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2379752_Shiner_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2379752_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Bourbon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2379752_Bourbon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Buff",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2379752_Buff_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-2379752/lee-wyoming-shorts-men.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Cadet Gray"
+        ],
+        "availableColr": [
+            "Blue Mirage Plaid",
+            "Vapor",
+            "Cadet Gray",
+            "Cement",
+            "Shiner",
+            "Black",
+            "Bourbon",
+            "Buff"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3365047",
+        "productTitle": "Men's Lee® Extreme Motion Crossroads Cargo Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3365047_Camo?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 884
+        },
+        "swatchImages": [
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3365047_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Anthracite",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3365047_Anthracite_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Fort Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3365047_Fort_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Stone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3365047_Stone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Slate",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3365047_Slate_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3365047_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3365047/mens-lee-extreme-motion-crossroads-cargo-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Camo"
+        ],
+        "availableColr": [
+            "Black",
+            "Anthracite",
+            "Fort Green",
+            "Stone",
+            "Slate",
+            "Camo"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "4936788",
+        "productTitle": "Men's Lee® Extreme Motion Carolina Cargo Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4936788_Summer_Haze?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.8,
+            "count": 250
+        },
+        "swatchImages": [
+            {
+                "color": "Native Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4936788_Native_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mortar Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4936788_Mortar_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Summer Haze",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4936788_Summer_Haze_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sagebrush",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4936788_Sagebrush_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4936788_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Buff",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4936788_Buff_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Bourbon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4936788_Bourbon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Basic Grey Plaid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4936788_Basic_Grey_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4936788/mens-lee-extreme-motion-carolina-cargo-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Summer Haze"
+        ],
+        "availableColr": [
+            "Native Camo",
+            "Mortar Gray",
+            "Summer Haze",
+            "Sagebrush",
+            "Black",
+            "Buff",
+            "Bourbon",
+            "Basic Grey Plaid"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5525258",
+        "productTitle": "Men's Lee Extreme Motion Crossroad Relaxed-Fit Camo Cargo Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5525258_Mountain_Lion_Camo?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.8,
+            "count": 225
+        },
+        "swatchImages": [
+            {
+                "color": "Nomad",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5525258_Nomad_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5525258_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5525258_Black_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mountain Lion Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5525258_Mountain_Lion_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5525258/mens-lee-extreme-motion-crossroad-relaxed-fit-camo-cargo-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Mountain Lion Camo"
+        ],
+        "availableColr": [
+            "Nomad",
+            "Gray",
+            "Black Camo",
+            "Mountain Lion Camo"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3450298",
+        "productTitle": "Men's Under Armour Tech Graphic Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3450298_Academy_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 1513
+        },
+        "swatchImages": [
+            {
+                "color": "Royal Mod Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3450298_Royal_Mod_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Academy Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3450298_Academy_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Red Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3450298_Red_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Marine Od Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3450298_Marine_Od_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Lime Surge",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3450298_Black_Lime_Surge_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Graphite",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3450298_Black_Graphite_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Steel Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3450298_Steel_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3450298/mens-under-armour-tech-graphic-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3450298_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Academy Navy"
+        ],
+        "availableColr": [
+            "Royal Mod Gray",
+            "Academy Navy",
+            "Red Black",
+            "Marine Od Green",
+            "Black Lime Surge",
+            "Black Graphite",
+            "Steel Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5971615",
+        "productTitle": "Men's Sonoma Goods For Life® 7\" Outdoor Cargo Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5971615_Medium_Blue?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 18,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 3.3,
+            "count": 78
+        },
+        "swatchImages": [
+            {
+                "color": "Medium Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5971615_Medium_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5971615_Dark_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Washed Orange",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5971615_Washed_Orange_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5971615_Dark_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5971615_Light_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5971615/mens-sonoma-goods-for-life-7-outdoor-cargo-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5971615_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Medium Blue"
+        ],
+        "availableColr": [
+            "Medium Blue",
+            "Dark Khaki",
+            "Washed Orange",
+            "Dark Gray",
+            "Light Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.3,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3257647",
+        "productTitle": "Men's Lee® Extreme Motion Swope Cargo Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3257647_Silver?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 339
+        },
+        "swatchImages": [
+            {
+                "color": "Silver",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3257647_Silver_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3257647_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3257647_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3257647_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Caramel",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3257647_Caramel_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3257647/mens-lee-swope-cargo-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Silver"
+        ],
+        "availableColr": [
+            "Silver",
+            "Gray",
+            "Khaki",
+            "Black",
+            "Caramel"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5869618",
+        "productTitle": "Men's Lee® Side Elastic 7.5\" Cargo Short",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5869618_Rivet_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 42,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 394
+        },
+        "swatchImages": [
+            {
+                "color": "Bronze",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5869618_Bronze_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Union All Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5869618_Union_All_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Olive Drab",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5869618_Olive_Drab_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "New Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5869618_New_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rivet Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5869618_Rivet_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Buff",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5869618_Buff_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Fort Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5869618_Fort_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "City Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5869618_City_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5869618/mens-lee-side-elastic-75-cargo-short.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Rivet Navy"
+        ],
+        "availableColr": [
+            "Bronze",
+            "Union All Black",
+            "Olive Drab",
+            "New Gray",
+            "Rivet Navy",
+            "Buff",
+            "Fort Green",
+            "City Beige"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5798410",
+        "productTitle": "Men's Sonoma Goods For Life® 7\" Everyday Pull-On Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5798410_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 36,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 21.6,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 292
+        },
+        "swatchImages": [
+            {
+                "color": "Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5798410_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5798410_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5798410_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Teal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5798410_Teal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Alloy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5798410_Alloy_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5798410/mens-sonoma-goods-for-life-7-everyday-pull-on-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Navy"
+        ],
+        "availableColr": [
+            "Olive",
+            "Navy",
+            "Khaki",
+            "Teal",
+            "Alloy"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 18.36,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4632125",
+        "productTitle": "Men's Tek Gear® Mesh Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4632125_Iron?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 20,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 1703
+        },
+        "swatchImages": [
+            {
+                "color": "Cherry Berry",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4632125_Cherry_Berry_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Iron",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4632125_Iron_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4632125_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Midnight Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4632125_Midnight_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "best_seller"
+        ],
+        "valueAddedBadges": {
+            "realTime": [
+                "best_seller"
+            ],
+            "pricing": [],
+            "other": []
+        },
+        "seoURL": "/product/prd-4632125/mens-tek-gear-mesh-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/4632125_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Iron"
+        ],
+        "availableColr": [
+            "Cherry Berry",
+            "Iron",
+            "Black",
+            "Midnight Blue"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 17,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3996847",
+        "productTitle": "Men's Lee® Extreme Comfort Flat-Front Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3996847_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 660
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3996847_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Original Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3996847_Original_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue Mirage",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3996847_Blue_Mirage_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Iron",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3996847_Iron_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3996847_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Stone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3996847_Stone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3996847_Charcoal_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3996847/mens-lee-extreme-comfort-flat-front-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Navy"
+        ],
+        "availableColr": [
+            "Navy",
+            "Original Khaki",
+            "Blue Mirage",
+            "Iron",
+            "Black",
+            "Stone",
+            "Charcoal"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3605036",
+        "productTitle": "Men's Columbia Washed-Out Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3605036_Crouton?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 45,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 29.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 382
+        },
+        "swatchImages": [
+            {
+                "color": "Gray Ash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3605036_Gray_Ash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Crouton",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3605036_Crouton_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Fossil",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3605036_Fossil_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "India Ink",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3605036_India_Ink_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3605036/mens-columbia-washed-out-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Crouton"
+        ],
+        "availableColr": [
+            "Gray Ash",
+            "Crouton",
+            "Fossil",
+            "India Ink"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3698449",
+        "productTitle": "Men's Nike Dri-FIT Icon Basketball Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3698449_Midnight_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 30,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 1338
+        },
+        "swatchImages": [
+            {
+                "color": "Midnight Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3698449_Midnight_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cool Gray Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3698449_Cool_Gray_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3698449_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "University Red",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3698449_University_Red_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Red White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3698449_Black_Red_White_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3698449/mens-nike-dri-fit-icon-basketball-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3698449_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Midnight Navy"
+        ],
+        "availableColr": [
+            "Midnight Navy",
+            "Cool Gray Black",
+            "White",
+            "University Red",
+            "Black Red White"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6539402",
+        "productTitle": "Men's Tek Gear® Above-The-Knee Mesh Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6539402_Berry_Magnolia?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 14.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 10
+        },
+        "swatchImages": [
+            {
+                "color": "Hawk Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6539402_Hawk_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Berry Magnolia",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6539402_Berry_Magnolia_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6539402_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6539402_Dark_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6539402/mens-tek-gear-above-the-knee-mesh-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6539402_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Berry Magnolia"
+        ],
+        "availableColr": [
+            "Hawk Gray",
+            "Berry Magnolia",
+            "Mineral Black",
+            "Dark Blue"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 12.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5825920",
+        "productTitle": "Men's Vans Washer Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5825920_Vintage_Indigo?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 24.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 15
+        },
+        "swatchImages": [
+            {
+                "color": "Vintage Indigo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5825920_Vintage_Indigo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rose Taupe",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5825920_Rose_Taupe_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5825920_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5825920/mens-vans-washer-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Vintage Indigo"
+        ],
+        "availableColr": [
+            "Vintage Indigo",
+            "Rose Taupe",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "4462814",
+        "productTitle": "Men's Hanes® ComfortSoft Jersey Pocket Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4462814_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 19,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 981
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4462814_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Camo Green Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4462814_Camo_Green_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4462814_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Steel",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4462814_Light_Steel_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4462814_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-4462814/mens-hanes-comfortsoft-jersey-pocket-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Navy"
+        ],
+        "availableColr": [
+            "Navy",
+            "Camo Green Heather",
+            "Black",
+            "Light Steel",
+            "Charcoal Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 16.15,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5702969",
+        "productTitle": "Men's Sonoma Goods For Life® 9\" Flexwear Flat-Front Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5702969_Teal?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 16,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 888
+        },
+        "swatchImages": [
+            {
+                "color": "Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5702969_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "London Rose",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5702969_London_Rose_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Teal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5702969_Teal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5702969_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "River Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5702969_River_Green_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5702969/mens-sonoma-goods-for-life-9-flexwear-flat-front-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Teal"
+        ],
+        "availableColr": [
+            "Olive",
+            "London Rose",
+            "Teal",
+            "Black",
+            "River Green"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 13.6,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6212977",
+        "productTitle": "Men's Eddie Bauer Timber Edge Ripstop 10\" Cargo Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6212977_Antique_Gold?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 60,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 7
+        },
+        "swatchImages": [
+            {
+                "color": "Capers",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6212977_Capers_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pumice",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6212977_Pumice_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Antique Gold",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6212977_Antique_Gold_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Carbon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6212977_Carbon_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-6212977/mens-eddie-bauer-timber-edge-ripstop-10-cargo-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6212977_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Antique Gold"
+        ],
+        "availableColr": [
+            "Capers",
+            "Pumice",
+            "Antique Gold",
+            "Carbon"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "1231138",
+        "productTitle": "Men's Champion® Jersey Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/1231138_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 25,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 1136
+        },
+        "swatchImages": [
+            {
+                "color": "Oxford Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/1231138_Oxford_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/1231138_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Granite Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/1231138_Granite_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-1231138/champion-shorts-men.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Oxford Gray",
+            "Black",
+            "Granite Heather"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5702853",
+        "productTitle": "Men's Sonoma Goods For Life® 10\" Flexwear Ripstop Cargo Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5702853_Light_Khaki?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 18,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "30",
+                "priceCode": "Normal",
+                "salePriceStatus": "clearance",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 1814
+        },
+        "swatchImages": [
+            {
+                "color": "Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5702853_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5702853_Light_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5702853_Light_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5702853/mens-sonoma-goods-for-life-10-flexwear-ripstop-cargo-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Light Khaki"
+        ],
+        "availableColr": [
+            "Olive",
+            "Light Gray",
+            "Light Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 15.3,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3260037",
+        "productTitle": "Men's Grand Slam Off Course Expandable Waistband Performance Golf Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3260037_Deep_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.7,
+            "count": 967
+        },
+        "swatchImages": [
+            {
+                "color": "Caviar",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3260037_Caviar_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Silver Lining",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3260037_Silver_Lining_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Asphalt",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3260037_Asphalt_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3260037_Deep_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Bright White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3260037_Bright_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Chinchilla",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3260037_Chinchilla_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sleet",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3260037_Sleet_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-3260037/mens-grand-slam-expandable-waistband-performance-golf-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Deep Navy"
+        ],
+        "availableColr": [
+            "Caviar",
+            "Silver Lining",
+            "Asphalt",
+            "Deep Navy",
+            "Bright White",
+            "Chinchilla",
+            "Sleet"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3216936",
+        "productTitle": "Men's RawX Regular-Fit Belted Cargo Shorts",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3216936_Navy?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:30:39 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:30:39 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 3.6,
+            "count": 163
+        },
+        "swatchImages": [
+            {
+                "color": "Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "British Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_British_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Brown Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_Brown_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_Charcoal_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_White_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Olive Camo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_Olive_Camo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3216936_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3216936/mens-rawx-regular-fit-belted-cargo-shorts.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Navy"
+        ],
+        "availableColr": [
+            "Olive",
+            "British Khaki",
+            "Brown Camo",
+            "Navy",
+            "Gray",
+            "White",
+            "Khaki",
+            "Charcoal Camo",
+            "White Camo",
+            "Olive Camo",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 40.8,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    }
+]

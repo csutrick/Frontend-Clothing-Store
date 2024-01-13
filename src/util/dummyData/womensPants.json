@@ -1,0 +1,2566 @@
+[
+    {
+        "webID": "3354493",
+        "productTitle": "Women's Croft & Barrow® Effortless Stretch Pull-On Straight-Leg Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3354493_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 7194
+        },
+        "swatchImages": [
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Genuine Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Genuine_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Floral Tile",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Black_Floral_Tile_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Forged Iron",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Forged_Iron_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Verawood",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Verawood_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Crimson",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Crimson_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Teal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Teal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Sage Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Dark_Sage_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cobblestone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Cobblestone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cocoa",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3354493_Cocoa_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "best_seller"
+        ],
+        "valueAddedBadges": {
+            "realTime": [
+                "best_seller"
+            ],
+            "pricing": [],
+            "other": []
+        },
+        "seoURL": "/product/prd-3354493/womens-croft-barrow-effortless-stretch-pull-on-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3354493_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "White",
+            "Genuine Navy",
+            "Black Floral Tile",
+            "Forged Iron",
+            "Verawood",
+            "Crimson",
+            "Black",
+            "Teal",
+            "Dark Sage Heather",
+            "Cobblestone",
+            "Cocoa"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 29.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3811392",
+        "productTitle": "Women's Lee® Wrinkle-Free Relaxed Fit Straight-Leg Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3811392_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 44,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 2866
+        },
+        "swatchImages": [
+            {
+                "color": "Black White Plaid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Black_White_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Charcoal Plaid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Black_Charcoal_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Ash Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Ash_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rodeo",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Rodeo_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Imperial Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Imperial_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mallory",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Mallory_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy Blue Plaid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Navy_Blue_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Flax",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Flax_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Frontier Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3811392_Frontier_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3811392/womens-lee-wrinkle-free-relaxed-fit-straight-leg-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3811392_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Black White Plaid",
+            "Black Charcoal Plaid",
+            "Ash Heather",
+            "Rodeo",
+            "Imperial Blue",
+            "Mallory",
+            "Black",
+            "Charcoal Heather",
+            "Navy Blue Plaid",
+            "Flax",
+            "Frontier Olive"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3857885",
+        "productTitle": "Women's Croft & Barrow® Effortless Stretch Pull-On Bootcut Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3857885_Indulgent_Green?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 22:46:58 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 22:46:58 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": "BUY 1 GET 1 50%",
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": [
+                        "BUY 1 GET 1 50%"
+                    ]
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.1,
+            "count": 1292
+        },
+        "swatchImages": [
+            {
+                "color": "Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3857885_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3857885_Heather_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3857885_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Indulgent Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3857885_Indulgent_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Rinse Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3857885_Rinse_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "bogo_1_1_p_50.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [
+                "bogo_1_1_p_50"
+            ],
+            "other": []
+        },
+        "seoURL": "/product/prd-3857885/womens-croft-barrow-effortless-stretch-pull-on-bootcut-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3857885_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Indulgent Green"
+        ],
+        "availableColr": [
+            "Beige",
+            "Heather Gray",
+            "Black",
+            "Indulgent Green",
+            "Rinse Wash"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 34,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6240815",
+        "productTitle": "Women's Croft & Barrow® Effortless Stretch Trouser",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6240815_Beige?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 44,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 30.8,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4,
+            "count": 91
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6240815_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6240815_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Java",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6240815_Heather_Java_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6240815_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6240815/womens-croft-barrow-effortless-stretch-trouser.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6240815_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Beige"
+        ],
+        "availableColr": [
+            "Navy",
+            "Beige",
+            "Heather Java",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 26.18,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6304032",
+        "productTitle": "Women's Croft & Barrow® Straight Leg Corduroy Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6304032_Brown?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 44,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 17.6,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 22:49:57 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 22:49:57 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 1245
+        },
+        "swatchImages": [
+            {
+                "color": "Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6304032_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6304032_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lidia Green",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6304032_Lidia_Green_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6304032_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6304032/womens-croft-barrow-straight-leg-corduroy-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6304032_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Brown"
+        ],
+        "availableColr": [
+            "Brown",
+            "Navy",
+            "Lidia Green",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 14.96,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "2267011",
+        "productTitle": "Women's Lee® Relaxed Fit Straight-Leg Twill Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/2267011_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 44,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 39.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4,
+            "count": 2100
+        },
+        "swatchImages": [
+            {
+                "color": "Black White Plaid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2267011_Black_White_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Parchment",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2267011_Parchment_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Imperial Blue",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2267011_Imperial_Blue_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2267011_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Roasted Chestnut",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2267011_Roasted_Chestnut_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Flax",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2267011_Flax_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2267011_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Deep Breen",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2267011_Deep_Breen_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-2267011/lee-original-relaxed-fit-straight-leg-pants-womens.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/2267011_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Black White Plaid",
+            "Parchment",
+            "Imperial Blue",
+            "Black",
+            "Roasted Chestnut",
+            "Flax",
+            "Charcoal Heather",
+            "Deep Breen"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "3817833",
+        "productTitle": "Women's Lee® Flex Motion Trouser Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3817833_Black_Rinse?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 36.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4,
+            "count": 747
+        },
+        "swatchImages": [
+            {
+                "color": "Indigo Rinse",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3817833_Indigo_Rinse_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Bungalow Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3817833_Bungalow_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Ash Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3817833_Ash_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black Rinse",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3817833_Black_Rinse_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Carbon Rinse",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3817833_Carbon_Rinse_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-3817833/womens-lee-flex-motion-trouser-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3817833_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black Rinse"
+        ],
+        "availableColr": [
+            "Indigo Rinse",
+            "Bungalow Khaki",
+            "Ash Heather",
+            "Black Rinse",
+            "Carbon Rinse"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "6254293",
+        "productTitle": "Women's Sonoma Goods For Life® Pleated Wide Leg Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6254293_Maple_Brown?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 44,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 26.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 107
+        },
+        "swatchImages": [
+            {
+                "color": "Dalton Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6254293_Dalton_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Patina Pnk",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6254293_Patina_Pnk_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Fieldstone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6254293_Fieldstone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Manolo Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6254293_Manolo_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pitch Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6254293_Pitch_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blueberry Skin",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6254293_Blueberry_Skin_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Maple Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6254293_Maple_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy Tundra",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6254293_Navy_Tundra_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6254293_Light_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6254293/womens-sonoma-goods-for-life-pleated-wide-leg-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6254293_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Maple Brown"
+        ],
+        "availableColr": [
+            "Dalton Khaki",
+            "Patina Pnk",
+            "Fieldstone",
+            "Manolo Olive",
+            "Pitch Black",
+            "Blueberry Skin",
+            "Maple Brown",
+            "Navy Tundra",
+            "Light Khaki"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 22.94,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6269845",
+        "productTitle": "Women's Croft & Barrow® Pull On Tapered Trousers",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6269845_Dark_Ink_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 28,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.2,
+            "count": 46
+        },
+        "swatchImages": [
+            {
+                "color": "Brown Plaid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6269845_Brown_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6269845_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Ink Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6269845_Dark_Ink_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Elora Tan",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6269845_Elora_Tan_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Maroon Mood",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6269845_Maroon_Mood_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6269845/womens-croft-barrow-pull-on-tapered-trousers.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6269845_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Dark Ink Heather"
+        ],
+        "availableColr": [
+            "Brown Plaid",
+            "Mineral Black",
+            "Dark Ink Heather",
+            "Elora Tan",
+            "Maroon Mood"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 23.8,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6360381",
+        "productTitle": "Women's Lee® Ultra Lux Comfort with Flex-To-Go Straight-Leg Utility Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6360381_Olive_Grove?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 36.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 72
+        },
+        "swatchImages": [
+            {
+                "color": "Unionall Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6360381_Unionall_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Olive Grove",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6360381_Olive_Grove_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Salina Stone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6360381_Salina_Stone_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lee Grey",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6360381_Lee_Grey_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6360381/womens-lee-ultra-lux-comfort-with-flex-to-go-straight-leg-utility-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6360381_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Olive Grove"
+        ],
+        "availableColr": [
+            "Unionall Black",
+            "Olive Grove",
+            "Salina Stone",
+            "Lee Grey"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": null,
+            "offers": null,
+            "ypEligibilityVal": null
+        },
+        "couponEligible": false,
+        "isVGC": false
+    },
+    {
+        "webID": "5033819",
+        "productTitle": "Women's Nine West Barely Bootcut Pant",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5033819_Heather_Gray?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 3.9,
+            "count": 807
+        },
+        "swatchImages": [
+            {
+                "color": "Bravado Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5033819_Bravado_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dark Char Plaid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5033819_Dark_Char_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5033819_Heather_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Taupe Mini Houndstooth",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5033819_Taupe_Mini_Houndstooth_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Heather Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5033819_Heather_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5033819_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Maddie Plum",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5033819_Maddie_Plum_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Gray Slub Check",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5033819_Gray_Slub_Check_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5033819/womens-nine-west-barely-bootcut-pant.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/5033819_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Heather Gray"
+        ],
+        "availableColr": [
+            "Bravado Brown",
+            "Dark Char Plaid",
+            "Heather Navy",
+            "Taupe Mini Houndstooth",
+            "Heather Gray",
+            "Black",
+            "Maddie Plum",
+            "Gray Slub Check"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 40.8,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5881334",
+        "productTitle": "Women's Tek Gear® Ultrasoft Fleece Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5881334_Metro_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 21.99,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 15.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 3093
+        },
+        "swatchImages": [
+            {
+                "color": "Metro Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5881334_Metro_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blue Crayon",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5881334_Blue_Crayon_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5881334_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Night Sangria",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5881334_Night_Sangria_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5881334/womens-tek-gear-ultrasoft-fleece-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Metro Heather"
+        ],
+        "availableColr": [
+            "Metro Heather",
+            "Blue Crayon",
+            "Black",
+            "Night Sangria"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 13.59,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6490292",
+        "productTitle": "Women's Simply Vera Vera Wang High-Rise Pull-On Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6490292_Medium_Path_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 50,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 37.5,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.6,
+            "count": 17
+        },
+        "swatchImages": [
+            {
+                "color": "Medium Path Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6490292_Medium_Path_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6490292_Black_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6490292/womens-simply-vera-vera-wang-high-rise-pull-on-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6490292_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Medium Path Heather"
+        ],
+        "availableColr": [
+            "Medium Path Heather",
+            "Black"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 31.87,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6075538",
+        "productTitle": "Women's Nine West High Rise Straight Leg Trousers",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6075538_Neutral_Mini_Pattern?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 39.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 3.7,
+            "count": 54
+        },
+        "swatchImages": [
+            {
+                "color": "Tan",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6075538_Tan_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Tan Blue Plaid",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6075538_Tan_Blue_Plaid_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cool Grey Melange",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6075538_Cool_Grey_Melange_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lurex Mini Hndstooth",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6075538_Lurex_Mini_Hndstooth_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mineral Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6075538_Mineral_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Mayfair Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6075538_Mayfair_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Neutral Mini Pattern",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6075538_Neutral_Mini_Pattern_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Navy Windowpane",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6075538_Navy_Windowpane_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6075538/womens-nine-west-high-rise-straight-leg-trousers.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6075538_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Neutral Mini Pattern"
+        ],
+        "availableColr": [
+            "Tan",
+            "Tan Blue Plaid",
+            "Cool Grey Melange",
+            "Lurex Mini Hndstooth",
+            "Mineral Black",
+            "Mayfair Brown",
+            "Neutral Mini Pattern",
+            "Navy Windowpane"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 33.99,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6265104",
+        "productTitle": "Women's Sonoma Goods For Life® Mid-Rise Utility Jogger Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6265104_Denim_Flare?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": 44
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "Mixed",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 273
+        },
+        "swatchImages": [
+            {
+                "color": "Nightlife Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6265104_Nightlife_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Storm Abyss",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6265104_Storm_Abyss_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Dalton Khaki",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6265104_Dalton_Khaki_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Denim Flare",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6265104_Denim_Flare_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Lead Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6265104_Lead_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Olive Night",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6265104_Olive_Night_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pascal Beige",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6265104_Pascal_Beige_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6265104/womens-sonoma-goods-for-life-mid-rise-utility-jogger-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6265104_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Denim Flare"
+        ],
+        "availableColr": [
+            "Nightlife Gray",
+            "Storm Abyss",
+            "Dalton Khaki",
+            "Denim Flare",
+            "Lead Gray",
+            "Olive Night",
+            "Pascal Beige"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 29.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "3022856",
+        "productTitle": "Women's Sonoma Goods For Life® Supersoft Midrise Straight-Leg Jeans",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/3022856_Ecru?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 27.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 3970
+        },
+        "swatchImages": [
+            {
+                "color": "Ecru",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3022856_Ecru_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3022856_Medium_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Light Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3022856_Light_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Eastin",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3022856_Eastin_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Park",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/3022856_Park_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-3022856/womens-sonoma-goods-for-life-slim-fit-straight-leg-jeans.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/3022856_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Ecru"
+        ],
+        "availableColr": [
+            "Ecru",
+            "Medium Wash",
+            "Light Wash",
+            "Eastin",
+            "Park"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": false,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 23.79,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": null
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "2946661",
+        "productTitle": "Women's Sonoma Goods For Life® Midrise Leggings",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/2946661_Charcoal_Heather?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 11.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.5,
+            "count": 9901
+        },
+        "swatchImages": [
+            {
+                "color": "Marjorie Plum",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2946661_Marjorie_Plum_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Tanner Brown",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2946661_Tanner_Brown_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2946661_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Plum Floral",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2946661_Plum_Floral_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Charcoal Heather",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2946661_Charcoal_Heather_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sea Power",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/2946661_Sea_Power_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif",
+            "best_seller"
+        ],
+        "valueAddedBadges": {
+            "realTime": [
+                "best_seller"
+            ],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-2946661/womens-sonoma-goods-for-life-solid-leggings.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/2946661_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Charcoal Heather"
+        ],
+        "availableColr": [
+            "Marjorie Plum",
+            "Tanner Brown",
+            "Black",
+            "Plum Floral",
+            "Charcoal Heather",
+            "Sea Power"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 10.19,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6287955",
+        "productTitle": "Women's Sonoma Goods For Life® Premium Bootcut Corduroy Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6287955_Cocoa_Hut?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 44,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 80
+        },
+        "swatchImages": [
+            {
+                "color": "Marjorie Plum",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6287955_Marjorie_Plum_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cocoa Hut",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6287955_Cocoa_Hut_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6287955/womens-sonoma-goods-for-life-premium-bootcut-corduroy-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6287955_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Cocoa Hut"
+        ],
+        "availableColr": [
+            "Marjorie Plum",
+            "Cocoa Hut"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 29.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4928223",
+        "productTitle": "Women's Nine West Magic Waist Bootcut Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4928223_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": null,
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.1,
+            "count": 865
+        },
+        "swatchImages": [
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4928223_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Sky Captain",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4928223_Sky_Captain_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black White Birdseye",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4928223_Black_White_Birdseye_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-4928223/womens-nine-west-magic-waist-bootcut-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/4928223_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Black"
+        ],
+        "availableColr": [
+            "Black",
+            "Sky Captain",
+            "Black White Birdseye"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 40.8,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "4380113",
+        "productTitle": "Women's Sonoma Goods For Life® Straight-Leg High-Waisted Curvy Jeans",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/4380113_Medium_Wash?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 27.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.3,
+            "count": 2471
+        },
+        "swatchImages": [
+            {
+                "color": "Medium Wash",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4380113_Medium_Wash_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Medium Dark",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4380113_Medium_Dark_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Eastin",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4380113_Eastin_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Park",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/4380113_Park_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [
+            "morecolors_Badge.gif"
+        ],
+        "valueAddedBadges": {
+            "realTime": [],
+            "pricing": [],
+            "other": [
+                "morecolors_badge"
+            ]
+        },
+        "seoURL": "/product/prd-4380113/womens-sonoma-goods-for-life-straight-leg-high-waisted-curvy-jeans.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/4380113_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Medium Wash"
+        ],
+        "availableColr": [
+            "Medium Wash",
+            "Medium Dark",
+            "Eastin",
+            "Park"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 23.79,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6434392",
+        "productTitle": "Junior's SO® High Rise Relaxed Cargo Pant",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6434392_English_Walnut?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 54,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 44.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Original",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 8
+        },
+        "swatchImages": [
+            {
+                "color": "Cameron Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6434392_Cameron_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Murky Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6434392_Murky_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "English Walnut",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6434392_English_Walnut_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Soft Sky",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6434392_Soft_Sky_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cool Aspen",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6434392_Cool_Aspen_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6434392/juniors-so-high-rise-relaxed-cargo-pant.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6434392_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "English Walnut"
+        ],
+        "availableColr": [
+            "Cameron Olive",
+            "Murky Gray",
+            "English Walnut",
+            "Soft Sky",
+            "Cool Aspen"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 38.24,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "5589804",
+        "productTitle": "Petite Women's Croft & Barrow® Effortless Stretch Pull-On Straight-Leg Pants",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/5589804_Crimson?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 40,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 34.99,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 22:01:50 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 22:01:50 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.1,
+            "count": 741
+        },
+        "swatchImages": [
+            {
+                "color": "Navy",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5589804_Navy_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "White",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5589804_White_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Forged Iron",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5589804_Forged_Iron_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Crimson",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5589804_Crimson_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Teal",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5589804_Teal_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5589804_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Cobblestone",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/5589804_Cobblestone_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-5589804/petite-womens-croft-barrow-effortless-stretch-pull-on-straight-leg-pants.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Crimson"
+        ],
+        "availableColr": [
+            "Navy",
+            "White",
+            "Forged Iron",
+            "Crimson",
+            "Teal",
+            "Black",
+            "Cobblestone"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 29.74,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6494507",
+        "productTitle": "Women's Sonoma Goods For Life® Easy Paper Bag Waist Capri",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6494507_Pitch_Black?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 27.99,
+                    "maxPrice": null
+                },
+                "salePrice": null,
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": null,
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 4.4,
+            "count": 14
+        },
+        "swatchImages": [
+            {
+                "color": "Beige Mauve",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6494507_Beige_Mauve_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Riviera Sand",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6494507_Riviera_Sand_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Manolo Olive",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6494507_Manolo_Olive_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Pitch Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6494507_Pitch_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Blueberry Skin",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6494507_Blueberry_Skin_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Trinity Gray",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6494507_Trinity_Gray_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6494507/womens-sonoma-goods-for-life-easy-paper-bag-waist-capri.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": null,
+        "prodType": "product",
+        "displayColor": [
+            "Pitch Black"
+        ],
+        "availableColr": [
+            "Beige Mauve",
+            "Riviera Sand",
+            "Manolo Olive",
+            "Pitch Black",
+            "Blueberry Skin",
+            "Trinity Gray"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 23.79,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    },
+    {
+        "webID": "6131862",
+        "productTitle": "Women's Gloria Vanderbilt Flare Jeans",
+        "image": {
+            "url": "https://media.kohlsimg.com/is/image/kohls/6131862_Ashville_Whiskers?wid=180&hei=180&op_sharpen=1",
+            "height": "180",
+            "width": "180"
+        },
+        "prices": [
+            {
+                "regularPrice": {
+                    "minPrice": 48,
+                    "maxPrice": null
+                },
+                "salePrice": {
+                    "minPrice": 24,
+                    "maxPrice": null
+                },
+                "displayBegDateTime": "2024/01/13 13:38:54 -0800",
+                "displayEndDateTime": "2024/01/14 21:00:24 -0800",
+                "purchaseBegDateTime": "2024/01/13 13:38:54 -0800",
+                "purchaseEndDateTime": "2024/01/14 21:00:24 -0800",
+                "isCurrentPrice": true,
+                "regularPriceType": "Regular",
+                "promotion": null,
+                "statusCode": "20",
+                "priceCode": "Normal",
+                "salePriceStatus": "sale",
+                "isSuppressed": false,
+                "salePriceType": null,
+                "isPriceInstore": false,
+                "suppressedPricingText": null,
+                "promotions": {
+                    "tieredPrice": [],
+                    "group": [],
+                    "bogo": []
+                }
+            }
+        ],
+        "rating": {
+            "avgRating": 3.7,
+            "count": 41
+        },
+        "swatchImages": [
+            {
+                "color": "Ashville Whiskers",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6131862_Ashville_Whiskers_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Black",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6131862_Black_sw?wid=20&hei=20&op_sharpen=1"
+            },
+            {
+                "color": "Grove",
+                "URL": "https://media.kohlsimg.com/is/image/kohls/6131862_Grove_sw?wid=20&hei=20&op_sharpen=1"
+            }
+        ],
+        "valueAddedIcons": [],
+        "valueAddedBadges": null,
+        "seoURL": "/product/prd-6131862/womens-gloria-vanderbilt-flare-jeans.jsp",
+        "variations": "SizeAndColor",
+        "altImageUrl": "https://media.kohlsimg.com/is/image/kohls/6131862_ALT",
+        "prodType": "product",
+        "displayColor": [
+            "Ashville Whiskers"
+        ],
+        "availableColr": [
+            "Ashville Whiskers",
+            "Black",
+            "Grove"
+        ],
+        "isAvailableforShip": true,
+        "isAvailableforPickUp": false,
+        "boosted": false,
+        "ypEligible": true,
+        "sponsoredData": null,
+        "sephoraProduct": false,
+        "yourPriceInfo": {
+            "yourPrice": {
+                "minPrice": 20.4,
+                "maxPrice": null
+            },
+            "offers": [
+                {
+                    "offerId": "70283",
+                    "offerCode": "GET15",
+                    "disProrated": "false"
+                }
+            ],
+            "ypEligibilityVal": "Eligible for Your Price"
+        },
+        "couponEligible": true,
+        "isVGC": false
+    }
+]

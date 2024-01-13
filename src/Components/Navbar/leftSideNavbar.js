@@ -1,6 +1,7 @@
 import React from "react";
 
 import Men from "./categories/men.js";
+import Women from "./categories/women.js";
 
 const LeftSideNavbar = ({ setSearchResults, useAPI }) => {
   return (
@@ -11,6 +12,10 @@ const LeftSideNavbar = ({ setSearchResults, useAPI }) => {
         </div>
         {/* navigation categories */}
         <Men 
+          setSearchResults={setSearchResults}
+          useAPI={useAPI}
+        />
+        <Women 
           setSearchResults={setSearchResults}
           useAPI={useAPI}
         />
